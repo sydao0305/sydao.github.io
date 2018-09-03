@@ -3,7 +3,7 @@ layout: default
 ---
 **Trada.Tech** là trang kiến thức dễ hiểu và trong sáng về công nghệ Blockchain.
 
-Phía sau những ầm ĩ của bong bóng và các vụ lừa đảo, ở cốt lõi của mình, Blockchain là một công nghệ rất đáng giá. Những ồn ào và sự chú ý của xã hội lắng xuống sẽ cho phép các nhóm nghiên cứu và phát triển tập trung vào việc nâng cấp và làm cho công nghệ này trưởng thành, để nó có thể đáp ứng những yêu cầu cao của các ứng dụng thực sự.
+Gạt đi những ầm ĩ của bong bóng và các vụ lừa đảo, ở cốt lõi của mình, Blockchain là một công nghệ rất đáng giá. Những ồn ào và sự chú ý của xã hội lắng xuống sẽ cho phép các nhóm nghiên cứu và phát triển tập trung vào việc nâng cấp và làm cho công nghệ này trưởng thành, để nó có thể đáp ứng những yêu cầu cao của các ứng dụng thực sự.
 
 Mục tiêu của chúng tôi là cung cấp kiến thức để gỡ bỏ bớt rào cản ban đầu, giúp mọi người dễ dàng tiếp cận với công nghệ này hơn.
 
