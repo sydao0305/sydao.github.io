@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**Trada.Tech** là trang kiến thức _dễ hiểu_ và _trong sáng_ về _công nghệ Blockchain_.
+**Trada.Tech** là trang kiến thức dễ hiểu và trong sáng về công nghệ Blockchain.
 
 Phía sau những ầm ĩ của bong bóng và các vụ lừa đảo, ở cốt lõi của mình, Blockchain là một công nghệ rất đáng giá. Những ồn ào và sự chú ý của xã hội lắng xuống sẽ cho phép các nhóm nghiên cứu và phát triển tập trung vào việc nâng cấp và làm cho công nghệ này trưởng thành, để nó có thể đáp ứng các yêu cầu cao của các ứng dụng thực sự.
 
