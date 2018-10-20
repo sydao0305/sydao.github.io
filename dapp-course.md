@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="margin-bottom:0"><i>Khoá học</i></>
+<p style="margin-bottom:0"><i>Khoá học</i></p>
 
 # Ethereum DApp Development
 <br><br>
