@@ -5,8 +5,7 @@ layout: default
 <p style="margin-bottom:0"><i>Khoá học</i></p>
 
 # Ethereum DApp Development
-<br><br>
-
+<p> </p>
 - Khoá học gồm 8 buổi, mỗi buổi 2 tiếng.
 - Mỗi tuần 2 buổi.
 - Học ngoài giờ (7~9pm) hoặc cuối tuần.
