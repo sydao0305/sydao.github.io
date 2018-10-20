@@ -2,7 +2,10 @@
 layout: default
 ---
 
-# Khoá học: Ethereum DApp Development
+*Khoá học*
+
+# Ethereum DApp Development
+ 
 
 - Khoá học gồm 8 buổi, mỗi buổi 2 tiếng.
 - Mỗi tuần 2 buổi.
@@ -45,12 +48,9 @@ layout: default
 
 ## Giảng viên
 
-1. Trương Hồng Thi (Thi măng cụt)
-Founder of Trada Tech, former manager and blockchain trainer of Kyber Network
-2. Andrew Nguyen
-Technical Manager of Kyber Network
-3. Nguyễn Hữu An (Andy)
-Co-founder and Blockchain lead of Sotatek
+1. **Trương Hồng Thi (Thi măng cụt)** Founder of Trada Tech, former manager and blockchain trainer of Kyber Network
+2. **Andrew Nguyen** Technical Manager of Kyber Network
+3. **Nguyễn Hữu An (Andy)** Co-founder and Blockchain lead of Sotatek
 
 ## Yêu cầu với học viên
 
