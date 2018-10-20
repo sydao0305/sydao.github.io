@@ -13,3 +13,5 @@ Mục tiêu của chúng tôi là cung cấp kiến thức để gỡ bỏ bớt
 - Những người đã có hiểu biết ban đầu hoặc đã làm việc với Blockchain trong 1 lĩnh vực cụ thể, muốn tìm hiểu về công nghệ và tiềm năng của Blockchain ở mức tổng quát hơn
 
 Nội dung của trang web này đang được xây dựng. Bạn có thể bookmark và quay lại sau.
+
+> Trada Tech đang mở khoá học Ethereum DApp Developement - [xem chi tiết](/courses/dapp).
