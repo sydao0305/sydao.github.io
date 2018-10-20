@@ -5,7 +5,7 @@ layout: default
 <p style="margin-bottom:0"><i>Khoá học</i></p>
 
 # Ethereum DApp Development
-<p> </p>
+<p><a href="https://t.me/mangcut" target="_blank">Đăng kí</a></p>
 - Khoá học gồm 8 buổi, mỗi buổi 2 tiếng.
 - Mỗi tuần 2 buổi.
 - Học ngoài giờ (7~9pm) hoặc cuối tuần.
