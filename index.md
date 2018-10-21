@@ -16,4 +16,4 @@ Nội dung của trang web này đang được xây dựng. Bạn có thể book
 
 > Trada Tech đang mở khoá học Ethereum DApp Developement - [xem chi tiết](/courses/dapp).
 
-> Trada Tech phối hợp với Kyber Network tổ chức buổi meetup The RoadBlocks to Blockchain Mass Adoption - <a href="https://www.facebook.com/events/2205236223097718/" target="_blank">xem chi tiết</a>.
+> Trada Tech phối hợp với Kyber Network và Up Co-working Space tổ chức buổi meetup _The RoadBlocks to Blockchain Mass Adoption_ - <a href="https://www.facebook.com/events/2205236223097718/" target="_blank">xem chi tiết</a>.
