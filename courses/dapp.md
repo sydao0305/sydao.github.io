@@ -5,10 +5,12 @@ layout: default
 <p style="margin-bottom:0"><i>Khoá học</i></p>
 
 # Ethereum DApp Development
-<p><a href="https://t.me/mangcut" target="_blank">Đăng kí</a></p>
+<p><a href="https://t.me/mangcut" target="_blank">Hỏi thêm thông tin</a></p>
 - Khoá học gồm 8 buổi, mỗi buổi 2 tiếng.
 - Mỗi tuần 2 buổi.
-- Học ngoài giờ (7~9pm) hoặc cuối tuần.
+- Học ngoài giờ (7~9pm) hoặc cuối tuần. Có 2 lựa chọn:
+  - Tối thứ 2 tối và thứ 5
+  - Tối thứ 4 và sáng thứ 7 (9:30~11:30)
 
 ## Sau khoá học bạn sẽ
 - Hiểu được bản chất, use cases, và vấn đề của blockchain, từ đó có thể tự tìm hiểu khi gặp vấn đề ngoài những thứ đã học
