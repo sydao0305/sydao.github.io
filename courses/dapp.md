@@ -2,15 +2,22 @@
 layout: default
 ---
 
-<p style="margin-bottom:0"><i>Khoá học</i></p>
+# Tại sao học ở Trada Academy có hiệu quả khác biệt?
 
+Trada Academy tập trung vào việc làm sao để học viên hiểu cặn kẽ vấn đề và làm được việc, tự tin khi ra solution (vấn đề này vấn đề kia giải quyết bằng blockchain như thế nào).
+
+- Hướng dẫn và giải thích trực tiếp chứ không dựa trên clip có sẵn
+- Giảng viên là người có khả năng trình bày, làm ở những công ty chuyên về blockchain, có kinh nghiệm thực sự đã nhúng tay vào các dự án blockchain lớn nhỏ, chứ không phải chỉ đọc sách và làm thử bài đơn giản rồi đi giảng
+- Giảng viên lập trình live trong khi giảng, cùng sự tham gia của học viên
+- Lớp chỉ ~15 người, giảng viên quan tâm tới từng học viên
+- Trách nhiệm với học viên cả trong và sau khi học
+
+<p style="margin-bottom:0"><i>Khoá học</i></p>
 # Ethereum DApp Development
 <p><a href="https://t.me/mangcut" target="_blank">Hỏi thêm thông tin</a></p>
 - Khoá học gồm 8 buổi, mỗi buổi 2 tiếng.
 - Mỗi tuần 2 buổi.
-- Học ngoài giờ (7~9pm) hoặc cuối tuần. Có 2 lựa chọn:
-  - Tối thứ 2 tối và thứ 5
-  - Tối thứ 4 và sáng thứ 7 (9:30~11:30)
+- Học ngoài giờ (7~9pm) hoặc cuối tuần
 
 ## Sau khoá học bạn sẽ
 - Hiểu được bản chất, use cases, và vấn đề của blockchain, từ đó có thể tự tìm hiểu khi gặp vấn đề ngoài những thứ đã học
