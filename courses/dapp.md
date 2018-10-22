@@ -18,6 +18,8 @@ Mục tiêu là từng học viên hiểu cặn kẽ vấn đề và làm đư�
 <p style="margin-bottom:0"><i>Khoá học</i></p>
 # Ethereum DApp Development
 <p><a href="https://t.me/mangcut" target="_blank">Hỏi thêm thông tin</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe69bVLIUWTGkTmed1p3VPIpFFee1eBPyndf_gSp65YCy4Mhg/viewform" target="_blank">Đăng kí</a></p>
+
 - Khoá học gồm 8 buổi, mỗi buổi 2 tiếng.
 - Mỗi tuần 2 buổi.
 - Học ngoài giờ (7~9pm) hoặc cuối tuần
