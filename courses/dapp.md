@@ -4,11 +4,14 @@ layout: default
 
 # Tại sao học ở Trada Academy có hiệu quả khác biệt?
 
-Trada Academy tập trung vào việc làm sao để học viên hiểu cặn kẽ vấn đề và làm được việc, tự tin khi ra solution (vấn đề này vấn đề kia giải quyết bằng blockchain như thế nào).
+Trada tập trung vào chất lượng và trách nhiệm tới từng học viên. Không dạy đại trà.
+
+Mục tiêu là từng học viên hiểu cặn kẽ vấn đề và làm được việc, tự tin khi ra solution (vấn đề này vấn đề kia giải quyết bằng blockchain như thế nào).
 
 - Hướng dẫn và giải thích trực tiếp chứ không dựa trên clip có sẵn
 - Giảng viên là người có khả năng trình bày, làm ở những công ty chuyên về blockchain, có kinh nghiệm thực sự đã nhúng tay vào các dự án blockchain lớn nhỏ, chứ không phải chỉ đọc sách và làm thử bài đơn giản rồi đi giảng
-- Giảng viên lập trình live trong khi giảng, cùng sự tham gia của học viên
+- Giảng viên lập trình live trong khi giảng, cùng sự tham gia của học viên, hướng dẫn từng người nếu gặp vấn đề không làm theo được
+- Có sản phẩm tự làm sau khi học
 - Lớp chỉ ~15 người, giảng viên quan tâm tới từng học viên
 - Trách nhiệm với học viên cả trong và sau khi học
 
@@ -18,13 +21,14 @@ Trada Academy tập trung vào việc làm sao để học viên hiểu cặn k�
 - Khoá học gồm 8 buổi, mỗi buổi 2 tiếng.
 - Mỗi tuần 2 buổi.
 - Học ngoài giờ (7~9pm) hoặc cuối tuần
+- Học phí: 10 triệu/người. Giảm giá 20% cho những người đăng kí trước ngày khai giảng 1 tuần.
 
 ## Sau khoá học bạn sẽ
 - Hiểu được bản chất, use cases, và vấn đề của blockchain, từ đó có thể tự tìm hiểu khi gặp vấn đề ngoài những thứ đã học
 - Hiểu được cơ chế hoạt động của Ethereum
 - Sử dụng thành thạo web3 library để tương tác với node
 - Lập trình tự tin smart contract bằng Solidity
-- Output là 1 sản phẩm DApp hoàn thiện (bao gồm front-end, smart contracts)
+- Output là 1 sản phẩm DApp hoàn thiện (bao gồm front-end, smart contracts, phát hành token riêng)
 - Được giới thiệu vào làm blockchain developer ở Trada Labs hoặc 1 trong các công ty liên kết nếu có nhu cầu
 - Có thể tiếp tục liên lạc trao đổi với instructor sau khi đã kết thúc khoá học để hỏi thêm về các điểm chưa hiểu
 
@@ -65,4 +69,3 @@ Trada Academy tập trung vào việc làm sao để học viên hiểu cặn k�
 - Là lập trình viên đã lập trình tự tin với 1 ngôn ngữ/công nghệ bất kì
 - Có hứng thú học về blockchain
 - Có thái độ học tập nghiêm túc
-
