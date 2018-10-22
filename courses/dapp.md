@@ -12,8 +12,8 @@ Mục tiêu là từng học viên hiểu cặn kẽ vấn đề và làm đư�
 - Giảng viên là người có khả năng trình bày, làm ở những công ty chuyên về blockchain, có kinh nghiệm thực sự đã nhúng tay vào các dự án blockchain lớn nhỏ, chứ không phải chỉ đọc sách và làm thử bài đơn giản rồi đi giảng
 - Giảng viên lập trình live trong khi giảng, cùng sự tham gia của học viên, hướng dẫn từng người nếu gặp vấn đề không làm theo được
 - Có sản phẩm tự làm sau khi học
-- Lớp chỉ ~15 người, giảng viên quan tâm tới từng học viên
-- Trách nhiệm với học viên cả trong và sau khi học
+- Lớp 10~15 người, giảng viên quan tâm tới từng học viên
+- Trách nhiệm với học viên cả trong và sau khi khoá học đã kết thúc
 
 <p style="margin-bottom:0"><i>Khoá học</i></p>
 # Ethereum DApp Development
