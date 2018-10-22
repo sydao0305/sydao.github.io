@@ -15,7 +15,7 @@ Mục tiêu là từng học viên hiểu cặn kẽ vấn đề và làm đư�
 - Lớp 10~15 người, giảng viên quan tâm tới từng học viên
 - Trách nhiệm với học viên cả trong và sau khi khoá học đã kết thúc
 
-<p style="margin-bottom:0"><i>Khoá học 0</i></p>
+<p style="margin-bottom:0"><i>Khoá học A</i></p>
 # Khoá blockchain thiết kế riêng theo yêu cầu của công ty 
 <p><a href="https://t.me/mangcut" target="_blank">Trao đổi</a></p>
 
@@ -24,7 +24,7 @@ Trada Tech cung cấp khoá học thiết kế riêng theo yêu cầu của côn
 Chúng tôi chỉ tổ chức khoá học nếu tin rằng có thể giúp được công ty bạn. Các yêu cầu đặc biệt mà Trada Tech chưa có nhiều kinh nghiệm, chúng tôi sẽ không nhận tổ chức lớp.
 
 
-<p style="margin-bottom:0"><i>Khoá học 1</i></p>
+<p style="margin-bottom:0"><i>Khoá học B</i></p>
 # Ethereum DApp Development
 <p><a href="https://t.me/mangcut" target="_blank">Hỏi thêm thông tin</a></p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe69bVLIUWTGkTmed1p3VPIpFFee1eBPyndf_gSp65YCy4Mhg/viewform" target="_blank">Đăng kí</a></p>
