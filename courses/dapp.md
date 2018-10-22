@@ -61,7 +61,7 @@ Mục tiêu là từng học viên hiểu cặn kẽ vấn đề và làm đư�
 ## Giảng viên
 
 1. **Trương Hồng Thi (Thi măng cụt)** Founder of Trada Tech, former manager and blockchain trainer of Kyber Network
-2. **Andrew Nguyen** Technical Manager of Kyber Network
+2. **Andrew Nguyen** Technical Manager of Kyber Network, technical lead of KyberSwap
 3. **Nguyễn Hữu An (Andy)** Co-founder and Blockchain lead of Sotatek
 
 ## Yêu cầu với học viên
