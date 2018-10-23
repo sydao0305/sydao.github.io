@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Trada Academy | Các khoá học blockchain
 ---
 
 # Tại sao học ở Trada Academy có hiệu quả khác biệt?
