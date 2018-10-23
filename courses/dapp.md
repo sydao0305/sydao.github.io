@@ -7,11 +7,11 @@ layout: default
 
 Trada tập trung vào chất lượng và trách nhiệm tới từng học viên. Không dạy đại trà.
 
-Mục tiêu là từng học viên hiểu cặn kẽ vấn đề và làm được việc, tự tin khi ra solution (vấn đề này vấn đề kia giải quyết bằng blockchain như thế nào).
+Mục tiêu là từng học viên hiểu cặn kẽ vấn đề và tự làm được việc, tự tin khi đưa ra solution.
 
 - Hướng dẫn và giải thích trực tiếp chứ không dựa trên clip có sẵn
 - Giảng viên là người có khả năng trình bày, làm ở những công ty chuyên về blockchain, có kinh nghiệm thực sự đã nhúng tay vào các dự án blockchain lớn nhỏ, chứ không phải chỉ đọc sách và làm thử bài đơn giản rồi đi giảng
-- Giảng viên lập trình live trong khi giảng, cùng sự tham gia của học viên, hướng dẫn từng người nếu gặp vấn đề không làm theo được
+- Giảng viên *lập trình live* trong khi giảng, cùng sự tham gia của học viên, hướng dẫn từng người nếu gặp vấn đề không làm theo được
 - Có sản phẩm tự làm sau khi học
 - Lớp 10~15 người, giảng viên quan tâm tới từng học viên
 - Trách nhiệm với học viên cả trong và sau khi khoá học đã kết thúc
@@ -20,9 +20,9 @@ Mục tiêu là từng học viên hiểu cặn kẽ vấn đề và làm đư�
 # Khoá blockchain thiết kế riêng theo yêu cầu của công ty 
 <p><a href="https://t.me/mangcut" target="_blank">Trao đổi</a></p>
 
-Trada Tech cung cấp khoá học thiết kế riêng theo yêu cầu của công ty. Chẳng hạn, công ty bạn đang có 1 yêu cầu từ khách hàng làm 1 hệ thống DApp hoặc blockchain có các chức năng riêng, chúng tôi có thể thiết kế khoá học xoay quanh yêu cầu đó.
+Trada Academy cung cấp khoá học thiết kế riêng theo yêu cầu của công ty. Chẳng hạn, công ty bạn đang có 1 yêu cầu từ khách hàng làm 1 hệ thống DApp hoặc blockchain có các chức năng riêng, chúng tôi có thể thiết kế khoá học xoay quanh yêu cầu đó.
 
-Chúng tôi chỉ tổ chức khoá học nếu tin rằng có thể giúp được công ty bạn. Các yêu cầu đặc biệt mà Trada Tech chưa có nhiều kinh nghiệm, chúng tôi sẽ không nhận tổ chức lớp.
+Chúng tôi chỉ tổ chức khoá học nếu thấy rằng có thể giúp được công ty bạn. Các yêu cầu đặc biệt mà Trada Tech chưa có nhiều kinh nghiệm, chúng tôi sẽ không nhận tổ chức lớp.
 
 
 <p style="margin-bottom:0"><i>Khoá học B</i></p>
@@ -61,10 +61,10 @@ Chúng tôi chỉ tổ chức khoá học nếu tin rằng có thể giúp đư�
 - Phát triển và deploy 1 smart contract với Remix
 
 **Buổi 5:**
-- Smart contract (tiếp): OpenZeppelin, Truffle Suite, tips (security, gas optimization)
+- Smart contract (tiếp): OpenZeppelin, Truffle Suite, tips (common mistakes, security, gas optimization)
 
 **Buổi 6:**
-- Phát hành 1 Ethereum token
+- Phát hành 1 Ethereum token (token contract & crowdsale)
 
 **Buổi 7, 8:**
 - Làm 1 DApp (làm, review, deploy chạy thử)
