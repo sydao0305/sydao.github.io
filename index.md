@@ -14,6 +14,6 @@ Mục tiêu của chúng tôi là cung cấp kiến thức để gỡ bỏ bớt
 
 Nội dung của trang web này đang được xây dựng. Bạn có thể bookmark và quay lại sau.
 
-> Trada Tech đang mở khoá học Ethereum DApp Developement - [xem chi tiết](/courses/dapp).
-
 > Trada Tech phối hợp với Kyber Network và Up Co-working Space tổ chức buổi meetup _The Roadblocks to Blockchain Mass Adoption_ - <a href="https://www.facebook.com/events/2205236223097718/" target="_blank">xem chi tiết</a>.
+
+> Trada Tech đang tuyển sinh khoá học Ethereum DApp Developement - [xem chi tiết](/courses/dapp).
