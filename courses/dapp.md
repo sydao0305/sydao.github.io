@@ -32,7 +32,7 @@ Chúng tôi chỉ tổ chức khoá học nếu tin rằng có thể giúp đư�
 - Khoá học gồm 8 buổi, mỗi buổi 2 tiếng.
 - Mỗi tuần 2 buổi.
 - Học ngoài giờ (7~9pm) hoặc cuối tuần
-- Học phí: 10 triệu/người. Giảm giá 20% cho những người đăng kí trước ngày khai giảng 1 tuần.
+- Học phí: 10 triệu/người. Giảm giá 20% cho những người đăng kí trước ngày khai giảng 1 tuần. Giảm 10% cho đơn vị cử từ 3 nhân viên trở lên theo học. Có thể áp dụng cả 2 loại giảm giá trên cùng lúc.
 
 ## Sau khoá học bạn sẽ
 - Hiểu được bản chất, use cases, và vấn đề của blockchain, từ đó có thể tự tìm hiểu khi gặp vấn đề ngoài những thứ đã học
