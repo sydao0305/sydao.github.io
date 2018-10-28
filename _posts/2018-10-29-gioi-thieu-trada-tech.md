@@ -9,7 +9,7 @@ Blockchain mang trong mình tiềm năng trao quyền trở lại cho từng ng�
 
 Đó là điều mang tính cách mạng.
 
-Thử tưởng tượng bạn có thể làm chủ thông tin cá nhân của mình, và lựa chọn chia sẻ chỉ những phần liên quan cho những ai tin cậy và cần thiết, mà không sợ các công ty trung gian xâm phạm và trục lợi.
+Thử tưởng tượng bạn có thể làm chủ thông tin cá nhân của mình, và lựa chọn chia sẻ chỉ những phần liên quan cho những ai tin cậy và cần thiết, khỏi lo các công ty trung gian xâm phạm và trục lợi.
 
 Rồi nữa, khi mua sắm, bạn có thể dễ dàng truy xuất thông tin được ghi nhận tại nguồn về món hàng, mà không sợ bị đơn vị thu mua, phân phối, hoặc đại lý trung gian làm giả mạo.
 
@@ -26,7 +26,7 @@ Tuy nhiên, có nhiều trở ngại rất lớn cần phải giải quyết.
 
 Năng lực lưu trữ và xử lý của các hệ thống blockchain chủ chốt vẫn còn rất thấp nhưng chi phí lại cao. Hành lang pháp lý chưa rõ ràng, trắng đen lẫn lộn, tạo ra sự ngần ngại. Các phiền phức về tài khoản và tiền mã hoá làm giảm trải nghiệm người dùng.
 
-Đối với người dùng mà nói, các ưu điểm blockchain đem lại vẫn còn rất trừu tượng, trong khi sự phiền phức lại rất cụ thể. Thêm vào đó, hầu hết các ứng dụng blockchain (DApp) chỉ là bản sao không có gì đặc sắc của các ứng dụng đã có, sau đó tìm cách “gắn” thêm blockchain vào. 
+Đối với người dùng mà nói, *các ưu điểm blockchain đem lại vẫn còn rất trừu tượng, trong khi sự phiền phức lại rất cụ thể*. Thêm vào đó, hầu hết các ứng dụng blockchain (DApp) chỉ là bản sao không có gì đặc sắc của các ứng dụng đã có, sau đó tìm cách “gắn” thêm blockchain vào. 
 
 <div class="info">
 <b>DApp</b> - viết tắt của Decentralized App (ứng dụng phi tập trung) là cách gọi các ứng dụng xây dựng trên nền tảng blockchain.
@@ -44,9 +44,9 @@ Nhìn một cách tổng thể, nguồn vốn đầu tư đã đổ vào blockch
 Hệ quả đó có sự góp phần không nhỏ của cơn sốt tiền ảo và ICO. Chuyện cũng đã qua, giờ là lúc bắt tay vào làm.
 
 ### Quan điểm của Trada Tech
-Blockchain không phải là công nghệ sẽ /thay thế/ công nghệ đang có. Nó chỉ cung cấp thêm 1 lựa chọn mới cho nhà phát triển. Mỗi công nghệ có ưu nhược riêng, mà tuỳ bài toán có thể chọn cái này, cái kia, hoặc chọn cả 2 phối hợp với nhau.
+Blockchain không phải là công nghệ sẽ *thay thế* công nghệ đang có. Nó chỉ cung cấp thêm 1 lựa chọn mới cho nhà phát triển. Mỗi công nghệ có ưu nhược riêng, mà tuỳ bài toán có thể chọn cái này, cái kia, hoặc chọn cả 2 phối hợp với nhau.
 
-Các lợi ích mà blockchain hứa hẹn thật ra không /sát sườn/, không đủ thuyết phục để thay đổi quyết định của khách hàng. Cứ gán bừa blockchain vào các ứng dụng xoàng xĩnh rồi bảo nó sẽ “thay đổi thế giới” cuối cùng cũng chả có ích gì. Vì vậy, cần phải tạo ra các ứng dụng blockchain thật sự /hữu ích/ với trải nghiệm người dùng xuất sắc. Chạy “nuột”. Không bắt người dùng học mới các khái niệm xa lạ của blockchain.
+Các lợi ích mà blockchain hứa hẹn thật ra không *sát sườn*, không đủ thuyết phục để thay đổi quyết định của khách hàng. Cứ gán bừa blockchain vào các ứng dụng xoàng xĩnh rồi bảo nó sẽ “thay đổi thế giới” cuối cùng cũng chả có ích gì. Vì vậy, cần phải tạo ra các ứng dụng blockchain thật sự *hữu ích* với trải nghiệm người dùng xuất sắc. Chạy “nuột”. Không bắt người dùng học mới các khái niệm xa lạ của blockchain.
 
 Khi có nhiều người sử dụng, các lợi ích của blockchain mới bắt đầu được cảm nhận rõ ràng. Từ đó, thái độ của xã hội đối với công nghệ này sẽ dần thay đổi, niềm tin được hình thành. Lúc đó, các nhà làm luật cũng mới có cơ sở và sự tự tin để tháo gỡ các vướng mắc pháp lý.
 
@@ -59,7 +59,7 @@ Trada Tech gồm 2 đơn vị.
 
 Nhiệm vụ của Trada Academy là chia sẻ kiến thức tới cộng đồng, giúp mọi người hiểu đúng bản chất của  blockchain, gỡ bỏ bớt rào cản ban đầu cho những ai muốn tiếp cận công nghệ này.
 
-Chúng tôi cũng tổ chức các khóa đào tạo chăm chút tới từng học viên để góp phần tạo ra 1 lớp lập trình viên blockchain chất lượng, sẵn sàng cho các cơ hội và thử thách sắp tới.
+Chúng tôi cũng tổ chức các khóa đào tạo *chăm chút tới từng học viên* để góp phần tạo ra 1 lớp lập trình viên blockchain chất lượng, sẵn sàng cho các cơ hội và thử thách sắp tới.
 
 #### Trada Labs
 
