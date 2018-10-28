@@ -5,7 +5,7 @@ title:  "Giới thiệu Trada Tech"
 excerpt: "Bài viết này giới thiệu về bối cảnh và lý do ra đời của Trada Tech."
 ---
 
-Blockchain mang trong mình tiềm năng trao quyền trở lại cho từng người dân bình thường, từ tay những cá nhân và tổ chức có thế lực.
+Công nghệ blockchain mang trong mình tiềm năng trao quyền trở lại cho từng người dân bình thường, từ tay những cá nhân và tổ chức có thế lực.
 
 Đó là điều mang tính cách mạng.
 
@@ -26,14 +26,14 @@ Tuy nhiên, có nhiều trở ngại rất lớn cần phải giải quyết.
 
 Năng lực lưu trữ và xử lý của các hệ thống blockchain chủ chốt vẫn còn rất thấp nhưng chi phí lại cao. Hành lang pháp lý chưa rõ ràng, trắng đen lẫn lộn, tạo ra sự ngần ngại. Các phiền phức về tài khoản và tiền mã hoá làm giảm trải nghiệm người dùng.
 
-Đối với người dùng mà nói, *các ưu điểm blockchain đem lại vẫn còn rất trừu tượng, trong khi sự phiền phức lại rất cụ thể*. Thêm vào đó, hầu hết các ứng dụng blockchain (DApp) chỉ là bản sao không có gì đặc sắc của các ứng dụng đã có, sau đó tìm cách “gắn” thêm blockchain vào. 
+Đối với người dùng mà nói, *các ưu điểm của blockchain vẫn còn rất trừu tượng, trong khi sự phiền phức lại rất cụ thể*. Thêm vào đó, hầu hết các ứng dụng blockchain (DApp) chỉ là bản sao không có gì đặc sắc của các ứng dụng đã có, sau đó tìm cách “gắn” thêm blockchain vào. 
 
 <div class="info">
 <b>DApp</b> - viết tắt của Decentralized App (ứng dụng phi tập trung) là cách gọi các ứng dụng xây dựng trên nền tảng blockchain.
 </div>
 
 <div class="media">
-  <img src="https://i2.wp.com/onproductmanagement.org/wp-content/uploads/2015/01/Problem-for-Solution1.jpg">
+  <img src="/assets/img/problemWanted.jpg">
   <p class="caption">Blockchain có phải là 1 giải pháp đang đi tìm vấn đề?</p>
 </div>
 
