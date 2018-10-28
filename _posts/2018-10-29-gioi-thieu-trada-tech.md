@@ -43,25 +43,25 @@ Nhìn một cách tổng thể, nguồn vốn đầu tư đã đổ vào blockch
 
 Hệ quả đó có sự góp phần không nhỏ của cơn sốt tiền ảo và ICO. Chuyện cũng đã qua, giờ là lúc bắt tay vào làm.
 
-## Quan điểm của Trada Tech
+### Quan điểm của Trada Tech
 Blockchain không phải là công nghệ sẽ /thay thế/ công nghệ đang có. Nó chỉ cung cấp thêm 1 lựa chọn mới cho nhà phát triển. Mỗi công nghệ có ưu nhược riêng, mà tuỳ bài toán có thể chọn cái này, cái kia, hoặc chọn cả 2 phối hợp với nhau.
 
 Các lợi ích mà blockchain hứa hẹn thật ra không /sát sườn/, không đủ thuyết phục để thay đổi quyết định của khách hàng. Cứ gán bừa blockchain vào các ứng dụng xoàng xĩnh rồi bảo nó sẽ “thay đổi thế giới” cuối cùng cũng chả có ích gì. Vì vậy, cần phải tạo ra các ứng dụng blockchain thật sự /hữu ích/ với trải nghiệm người dùng xuất sắc. Chạy “nuột”. Không bắt người dùng học mới các khái niệm xa lạ của blockchain.
 
 Khi có nhiều người sử dụng, các lợi ích của blockchain mới bắt đầu được cảm nhận rõ ràng. Từ đó, thái độ của xã hội đối với công nghệ này sẽ dần thay đổi, niềm tin được hình thành. Lúc đó, các nhà làm luật cũng mới có cơ sở và sự tự tin để tháo gỡ các vướng mắc pháp lý.
 
-## Cách làm của Trada Tech
+### Cách làm của Trada Tech
 Ở Trada Tech, chúng tôi không cố gắng tạo ra những ứng dụng blockchain vắng người sử dụng, rồi ngồi trông chờ ai đó khác giải bài toán “mass adoption” (được chấp nhận rộng rãi) của blockchain. Nền tảng blockchain nói chung còn yếu thì không thể xây nên các ứng dụng mạnh. Vì thế, chúng tôi mong muốn góp phần trong việc tạo ra và chia sẻ nền tảng, công cụ, cách làm để giúp cho các nhà phát triển có đủ vũ khí đưa DApp từ tủ kính ra đời thật.
 
 Trada Tech gồm 2 đơn vị.
 
-### Trada Academy
+#### Trada Academy
 
 Nhiệm vụ của Trada Academy là chia sẻ kiến thức tới cộng đồng, giúp mọi người hiểu đúng bản chất của  blockchain, gỡ bỏ bớt rào cản ban đầu cho những ai muốn tiếp cận công nghệ này.
 
 Chúng tôi cũng tổ chức các khóa đào tạo chăm chút tới từng học viên để góp phần tạo ra 1 lớp lập trình viên blockchain chất lượng, sẵn sàng cho các cơ hội và thử thách sắp tới.
 
-### Trada Labs
+#### Trada Labs
 
 Trada Labs nghiên cứu và làm thử các giải pháp cho các vấn đề then chốt đang cản bước blockchain trên con đường trưởng thành.
 
