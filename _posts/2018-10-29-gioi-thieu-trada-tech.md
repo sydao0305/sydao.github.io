@@ -2,7 +2,7 @@
 layout: post
 author: "Trương Hồng Thi"
 title:  "Giới thiệu Trada Tech"
-excerpt: "Bài viết này giới thiệu về bối cảnh và lý do ra đời của Trada Tech."
+excerpt: "Bối cảnh và lý do ra đời của Trada Tech."
 ---
 
 Công nghệ blockchain mang trong mình tiềm năng trao quyền trở lại cho từng người dân bình thường, từ tay những cá nhân và tổ chức có thế lực.
