@@ -28,6 +28,11 @@ show_excerpts: true
 header_pages:
   - courses.md
   - blog.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/trada_cover.png
 plugins:
   - jekyll-feed
 
