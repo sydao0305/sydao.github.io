@@ -1,0 +1,49 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.info {
+    background-color: rgb(217,230,240);
+	padding: 0.5rem 1rem;
+    font-size: 0.9em;
+    margin-bottom: 1.2rem;
+}
+.info h5 {
+    font-weight: bold;
+    font-size: 1rem;
+    padding-top: 0.6rem;
+}
+.caption {
+    color: gray;
+    font-size: 0.9em;
+    padding-top: 4px;
+}
+blockquote {
+    font-size: 1rem;
+    font-style: normal;
+    border-left: 6px solid #60E1AC;
+    padding-left: 12px;
+    letter-spacing: 0;
+}
+.site-title .logo {
+    height: 42px;
+    vertical-align: top;
+    padding-top: 6px;
+}
+.site-header {
+    border-top: none;
+}
+.page-content, .post-content {
+    font-size: 18px;
+    line-height: 1.6;
+}
+.line {
+    height: 1px;
+    background-color: #ddd;
+    margin: 2rem 0;
+}
+h1, h2, h3, h4 {
+    line-height: 1.3;
+}
