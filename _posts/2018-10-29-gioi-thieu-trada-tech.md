@@ -2,7 +2,7 @@
 layout: post
 author: "Trương Hồng Thi"
 title:  "Giới thiệu Trada Tech"
-excerpt: "Bối cảnh và lý do ra đời của Trada Tech."
+excerpt: "Trada Tech làm gì và tại sao."
 ---
 
 Công nghệ blockchain mang trong mình tiềm năng trao quyền trở lại cho từng người dân bình thường, từ tay những cá nhân và tổ chức có thế lực.
@@ -77,5 +77,3 @@ Trada Labs nghiên cứu và làm thử các giải pháp cho các vấn đề t
 </div>
 
 Muốn tham gia cùng Trada Tech? Liên hệ Telegram <a href="https://t.me/mangcut" target="_blank">@mangcut</a>.
-
-> Vào 7pm tối 30/10/2018 tại UP Coworking Space 89 Láng Hạ, Trada Tech kết hợp cùng Kyber Network tổ tức buổi thảo luận <a href="https://www.facebook.com/events/2205236223097718/" target="_blank">The Roadblocks to Blockchain Mass Adoption</a> (bằng tiếng Việt). Bạn có thể đến để cùng trao đổi sâu thêm về câu chuyện này.
