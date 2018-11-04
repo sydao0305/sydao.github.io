@@ -48,6 +48,11 @@ h1, h2, h3, h4 {
 }
 .footer-col-3 {
 	font-size: 0.9em;
-    width: -webkit-calc(65% - (30px / 2));
-    width: calc(65% - (30px / 2));
+}
+
+@media screen and (min-width: 601px) {
+	.footer-col-3 {
+		width: -webkit-calc(65% - (30px / 2));
+		width: calc(65% - (30px / 2));
+	}
 }
