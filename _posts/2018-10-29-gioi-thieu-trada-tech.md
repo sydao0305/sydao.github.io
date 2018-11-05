@@ -67,7 +67,7 @@ Trada Labs nghiên cứu và làm thử các giải pháp cho các vấn đề t
 
 <div class="info">
 <h5>Cụ thể là làm gì về mặt kỹ thuật?</h5>
-<p>Trên thực tế, các mỗi ứng dụng có yêu cầu khác nhau về mức độ an toàn và tốc độ xử lý. Một hệ thống blockchain chung như Ethereum sẽ rất khó để tuỳ chỉnh các tham số trên cho từng DApp. Tuy nhiên, nếu ai muốn làm DApp mà lại phải tự phát triển 1 blockchain riêng thì quá phức tạp. Cần có công cụ để nhà phát triển dễ dàng tạo ra 1 blockchain với các tham số của riêng mình.</p>
+<p>Trên thực tế, mỗi ứng dụng có yêu cầu khác nhau về mức độ an toàn và tốc độ xử lý. Một hệ thống blockchain chung như Ethereum sẽ rất khó để tuỳ chỉnh các tham số trên cho từng DApp. Tuy nhiên, nếu ai muốn làm DApp mà lại phải tự phát triển 1 blockchain riêng thì quá phức tạp. Cần có công cụ để nhà phát triển dễ dàng tạo ra 1 blockchain với các tham số của riêng mình.</p>
 
 <p>Hơn nữa, mỗi ứng dụng thường chia làm nhiều tầng tầng: lưu trữ, nghiệp vụ và giao diện. Mỗi tầng cũng có yêu cầu khác nhau và độc lập tương đối với nhau. Vì vậy, một kiến trúc tốt phải cho phép nhà phát triển dễ dàng đặt các tầng này lên các blockchain khác nhau nếu muốn.</p>
 
