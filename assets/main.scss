@@ -46,3 +46,13 @@ blockquote {
 h1, h2, h3, h4 {
     line-height: 1.3;
 }
+.footer-col-3 {
+	font-size: 0.9em;
+}
+
+@media screen and (min-width: 801px) {
+	.footer-col-3 {
+		width: -webkit-calc(65% - (30px / 2));
+		width: calc(65% - (30px / 2));
+	}
+}
