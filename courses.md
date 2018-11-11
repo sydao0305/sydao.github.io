@@ -16,7 +16,7 @@ Mục tiêu là từng học viên hiểu cặn kẽ vấn đề và tự làm �
 - Giảng viên *lập trình live* trong khi giảng, cùng sự tham gia của học viên, hướng dẫn từng người nếu gặp vấn đề không làm theo được
 - Có sản phẩm tự làm sau khi học
 - Lớp ~10 người, giảng viên quan tâm tới từng học viên
-- Trách nhiệm với học viên cả trong và sau khi khoá học đã kết thúc
+- Trách nhiệm với học viên cả trong và sau khi khoá học đã kết thúc. Học viên có thể trao đổi các vấn đề đang gặp ở dự án riêng của mình
 
 <div class="line"></div>
 
@@ -34,10 +34,10 @@ Chúng tôi chỉ tổ chức khoá học nếu thấy rằng có thể giúp đ
 ## Ethereum DApp Development
 <p><a href="mailto:thi@trada.tech" target="_blank">Email</a> - <a href="https://t.me/mangcut" target="_blank">Telegram</a> - <a href="https://docs.google.com/forms/d/e/1FAIpQLSe69bVLIUWTGkTmed1p3VPIpFFee1eBPyndf_gSp65YCy4Mhg/viewform" target="_blank">Đăng kí</a></p>
 
-- Khoá học gồm 8 buổi, mỗi buổi 2 tiếng.
+- Khoá học gồm 9 buổi x 2 tiếng, trong đó 8 buổi theo chương trình chính thức, và 1 buổi theo đề tài lựa chọn bởi đa số học viên
 - Mỗi tuần 2 buổi.
 - Học ngoài giờ (7~9pm) hoặc cuối tuần
-- Học phí: 10 triệu/người. Giảm giá 20% cho những người đăng kí trước ngày khai giảng 1 tuần. Giảm 10% cho đơn vị cử từ 3 nhân viên trở lên theo học. Có thể áp dụng cả 2 loại giảm giá trên cùng lúc.
+- Học phí: 10 triệu/người. Giảm giá 20% cho những người đăng kí trước ngày khai giảng 1 tuần. Giảm 10% cho đơn vị hoặc nhóm cử từ 3 nhân viên trở lên theo học. Có thể áp dụng cả 2 loại giảm giá trên cùng lúc.
 
 ### Sau khoá học bạn sẽ
 - Hiểu được bản chất, use cases, và vấn đề của blockchain, từ đó có thể tự tìm hiểu khi gặp vấn đề ngoài những thứ đã học
@@ -73,6 +73,9 @@ Chúng tôi chỉ tổ chức khoá học nếu thấy rằng có thể giúp đ
 
 **Buổi 7, 8:**
 - Làm 1 DApp (làm, review, deploy chạy thử)
+
+**Buổi 9**
+- Nội dung chọn theo biểu quyết của học viên
 
 ### Giảng viên
 
