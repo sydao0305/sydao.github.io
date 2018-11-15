@@ -88,4 +88,4 @@ Chúng tôi chỉ tổ chức khoá học nếu thấy rằng có thể giúp đ
 - Là lập trình viên đã lập trình tự tin với 1 ngôn ngữ/công nghệ bất kì
 - Có hứng thú học về blockchain
 - Có thái độ học tập nghiêm túc
-
+- Đi học đều và chịu khó hỏi trong qúa trình học và làm bài tập. Khoá học ít dựa vào slide mà dựa vào giảng giải trực tiếp và live code và bài tập tương tác, nên bạn cần tham gia sâu vào quá trình học chứ không trông đợi đọc slide.
