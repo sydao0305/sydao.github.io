@@ -1,8 +1,9 @@
 ---
+title: Trada Tech làm gì và tại sao
+date: 2018-10-29 00:00:00 Z
 layout: post
-author: "Trương Hồng Thi"
-title:  "Trada Tech làm gì và tại sao"
-excerpt: "Chia sẻ từ founder dự án."
+author: Trương Hồng Thi
+excerpt: Chia sẻ từ founder dự án.
 ---
 
 Công nghệ blockchain mang trong mình tiềm năng trao quyền trở lại cho từng người dân bình thường, từ tay những cá nhân và tổ chức có thế lực.

@@ -1,6 +1,6 @@
 ---
+title: Tư vấn dự án blockchain
 layout: default
-title: "Tư vấn dự án blockchain"
 ---
 
 ## Bạn đang muốn ứng dụng blockchain nhưng chưa biết bắt đầu từ đâu?

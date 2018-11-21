@@ -1,7 +1,7 @@
 ---
+title: Khoá học
+permalink: "/courses/dapp.html"
 layout: default
-title: "Khoá học"
-permalink: /courses/dapp.html
 ---
 
 ## Tại sao học ở Trada Academy có hiệu quả khác biệt?
