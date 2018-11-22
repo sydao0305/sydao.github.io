@@ -14,16 +14,12 @@ defaults:
   values:
     image: "/assets/img/trada_cover.png"
 lang: vi
-description: Blockchain made simple.
+description: Hiểu đúng làm thực blockchain.
 baseurl: "/"
 url: https://trada.tech
 google_analytics: UA-8597504-5
 markdown: kramdown
 theme: minima
 show_excerpts: true
-header_pages:
-- consulting.md
-- courses.md
-- blog.md
 plugins:
 - jekyll-feed
