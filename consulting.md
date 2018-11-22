@@ -17,5 +17,5 @@ Cho dù là bạn muốn tạo ra 1 blockchain mới hay chỉ muốn ứng dụ
 
 ### Liên hệ:
 
-- Email: <a href="mailto:thi@tradatech.vn" target="_blank">thi@tradatech.vn</a>
+- Email: <a href="mailto:thi@trada.tech" target="_blank">thi@trada.tech</a>
 - Telegram: <a href="https://t.me/mangcut" target="_blank">@mangcut</a>
