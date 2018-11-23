@@ -1,5 +1,6 @@
 ---
 title: Tư vấn dự án blockchain
+permalink: "/consulting/"
 layout: default
 ---
 

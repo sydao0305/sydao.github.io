@@ -1,10 +1,12 @@
 ---
 layout: default
+permalink: "/wiki/"
+title: Blockchain Wiki
 ---
 
 > Nội dung của trang web này đang được xây dựng. Bạn có thể bookmark và quay lại sau.
 
-**Trada Wiki là trang kiến thức dễ hiểu và trong sáng về công nghệ Blockchain.**
+**Blockchain Wiki là trang kiến thức dễ hiểu và trong sáng về công nghệ Blockchain.**
 
 Gạt đi những ầm ĩ của bong bóng và các vụ lừa đảo, ở cốt lõi của mình, Blockchain là một công nghệ rất đáng giá. Những ồn ào lắng xuống sẽ cho phép các nhóm R&D tập trung vào việc giải quyết các vấn đề then chốt giúp cho công nghệ này trưởng thành.
 
