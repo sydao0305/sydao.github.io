@@ -1,7 +1,7 @@
 ---
-layout: default
-permalink: "/wiki/"
 title: Blockchain Wiki
+permalink: "/wiki/"
+layout: default
 ---
 
 > Nội dung của trang web này đang được xây dựng. Bạn có thể bookmark và quay lại sau.
