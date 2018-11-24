@@ -5,7 +5,8 @@ layout: default
 <style>
 
 .hero-section, .features-section, .quote-section, .blog-section {
-	padding: 30px 0;
+    padding: 30px 0;
+    border-radius: 2px;
 }
 
 .features-section * {
@@ -54,14 +55,12 @@ layout: default
     padding: 16px 16px 32px;
 }
 
-@media only screen and (max-width: 800px) {
-	.features-section .feature-row .feature-card {
-        width: 100%;
-    }
+.quote-section {
+    background-color: #eee;
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/memphis-colorful.png");
 }
 
-
-figure.snip1197 {
+figure.testimonial {
   position: relative;
   float: left;
   margin: 10px 1% 40px;
@@ -69,31 +68,37 @@ figure.snip1197 {
   width: 100%;
   color: #333;
   text-align: left;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  border-radius: 90px;
+  box-shadow: -3px 5px 12px 0 rgba(0,0,0,0.3);
 }
-figure.snip1197.second {
+figure.testimonial.first {
+    transform: rotate(-5deg);
+    top: 18px;
+}
+figure.testimonial.second {
     float:right;
+    transform: rotate(15deg);
 }
-figure.snip1197 * {
+figure.testimonial * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
-figure.snip1197 img {
+figure.testimonial img {
   float: right;
   max-width: 40%;
   vertical-align: middle;
-  border-radius: 0 8px 8px 0;
+  /*border-radius: 0 8px 8px 0;*/
 }
-figure.snip1197 figcaption {
+figure.testimonial figcaption {
   top: 0;
   bottom: 0;
   left: 0;
   width: 60%;
   position: absolute;
-  background-color: #ffffff;
+  background-color: #fdf9c5;
   border-radius: 8px 0 0 8px;
 }
-figure.snip1197 blockquote {
+figure.testimonial blockquote {
   position: relative;
   padding: 25px 50px 25px 50px;
   font-size: 0.9em;
@@ -103,9 +108,10 @@ figure.snip1197 blockquote {
   line-height: 1.6em;
   font-style: italic;
   border-left: 0;
+  color: #333;
 }
-figure.snip1197 blockquote:before,
-figure.snip1197 blockquote:after {
+figure.testimonial blockquote:before,
+figure.testimonial blockquote:after {
   font-family: 'FontAwesome';
   content: "\201C";
   position: absolute;
@@ -113,27 +119,27 @@ figure.snip1197 blockquote:after {
   opacity: 0.3;
   font-style: normal;
 }
-figure.snip1197 blockquote:before {
+figure.testimonial blockquote:before {
   top: 25px;
   left: 20px;
 }
-figure.snip1197 blockquote:after {
+figure.testimonial blockquote:after {
   content: "\201D";
   right: 20px;
   bottom: 0px;
 }
-figure.snip1197 .arrow {
+figure.testimonial .arrow {
   top: 30px;
   left: 100%;
   width: 0;
   height: 0;
   border-left: 0 solid transparent;
   border-right: 25px solid transparent;
-  border-top: 25px solid #ffffff;
+  border-top: 25px solid #fdf9c5;
   margin: 0;
   position: absolute;
 }
-figure.snip1197 .author {
+figure.testimonial .author {
   position: absolute;
   top: 100%;
   width: 100%;
@@ -142,29 +148,42 @@ figure.snip1197 .author {
   margin: 0;
   text-transform: uppercase;
 }
-figure.snip1197 .author h5 {
+figure.testimonial .author h5 {
   opacity: 0.8;
   margin: 0;
   font-weight: 800;
 }
-figure.snip1197 .author h5 span {
+figure.testimonial .author h5 span {
   font-weight: 400;
   text-transform: none;
   padding-left: 5px;
 }
 
+@media only screen and (max-width: 800px) {
+	.features-section .feature-row .feature-card {
+        width: 100%;
+    }
+    figure.testimonial.first {
+        top: 32px;
+    }
+    figure.testimonial.first .author {
+        top: auto;
+        bottom: 100%;
+    }
+}
+
 @media only screen and (max-width: 499px) {
-	figure.snip1197 img {
+	figure.testimonial img {
         display: none;
     }
-    figure.snip1197 figcaption {
+    figure.testimonial figcaption {
         width: 100%;
         position: relative;
     }
-    figure.snip1197.second {
+    figure.testimonial.second {
         float:left;
     }
-    figure.snip1197 .arrow {
+    figure.testimonial .arrow {
         display: none;
     }
 }
@@ -209,6 +228,8 @@ figure.snip1197 .author h5 span {
 h2.section-title {
     font-weight: 300;
     text-transform: uppercase;
+    text-align: center;
+    color: #828282;
 }
 
 </style>
@@ -217,7 +238,7 @@ h2.section-title {
     <h1>TRADA ACADEMY</h1>
     <h3>hiểu đúng làm thực blockchain</h3>
     <div class="action-zone">
-        <a href="/courses/dapp.html" class="main-button">HỌC VIẾT DAPP</a>
+        <a href="/courses/dapp.html" class="main-button">HỌC DAPP →</a>
     </div>
 </section>
 
@@ -240,7 +261,7 @@ h2.section-title {
                 </div>
                 <div class="text">
                     <h5>Tư vấn</h5>
-                    <p>Công ty bạn có việc cần làm về blockchain nhưng chưa biết bắt đầu thế nào? Cứ để chúng tôi giúp!</p>
+                    <p>Công ty bạn có việc cần làm về blockchain nhưng chưa biết bắt đầu từ đâu? Để đấy chúng tôi giúp.</p>
                 </div>
                 <div class="button">
                     <a href="/consulting/">Chi tiết →</a>
@@ -251,7 +272,7 @@ h2.section-title {
                 </div>
                 <div class="text">
                     <h5>Wiki</h5>
-                    <p>Tập hợp kiến thức cơ bản về blockchain, được viết trong sáng, khách quan và dễ hiểu, miễn phí dành cho cộng đồng.</p>
+                    <p>Tập hợp kiến thức cơ bản về blockchain. Trong sáng, khách quan và dễ hiểu. Miễn phí dành cho cộng đồng.</p>
                 </div>
                 <div class="button">
                     <a href="/wiki/">Xem →</a>
@@ -263,7 +284,7 @@ h2.section-title {
 
 <section class="quote-section">
     <h2 class="section-title">Học viên nói gì?</h2>
-    <figure class="snip1197">
+    <figure class="testimonial first">
         <figcaption>
             <blockquote>Bài giảng rất hay và súc tích. Truyền lửa đam mê cho học sinh. Highly recommend!!!</blockquote>
             <div class="arrow"></div>
@@ -274,7 +295,7 @@ h2.section-title {
         </div>
     </figure>
     <br>
-    <figure class="snip1197 second">
+    <figure class="testimonial second">
         <figcaption>
             <blockquote>Giảng viên rất nhiệt tình và tâm huyết. Giải thích bằng ví dụ dễ hình dung, live code giúp hiểu trực quan. Học rất vào!</blockquote>
             <div class="arrow"></div>
@@ -288,6 +309,6 @@ h2.section-title {
 </section>
 
 <section class="blog-section">
-    <h2 class="section-title">Bài viết gần đây</h2>
-    <blockquote>Chia sẻ từ founder - <a href="/2018/10/29/gioi-thieu-trada-tech.html">Trada Tech làm gì và tại sao</a>.
+    <h2 class="section-title">&nbsp;</h2>
+    <p><i>Trada Tech là trung tâm nghiên cứu và đào tạo về blockchain. Đọc chia sẻ từ founder - <a href="/2018/10/29/gioi-thieu-trada-tech.html">Trada Tech làm gì và tại sao</a>.</i></p>
 </section>
