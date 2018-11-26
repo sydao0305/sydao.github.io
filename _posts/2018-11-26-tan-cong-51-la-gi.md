@@ -1,6 +1,7 @@
 ---
 title: Tấn công 51% là gì?
-image: /assets/img/hashrate.jpg
+date: 2018-11-26 00:00:00 Z
+image: "/assets/img/hashrate.jpg"
 excerpt: 51% của cái gì và gây hại như thế nào.
 ---
 
