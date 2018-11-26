@@ -1,5 +1,6 @@
 ---
 title: Tấn công 51% là gì?
+image: /assets/img/hashrate.jpg
 excerpt: 51% của cái gì và gây hại như thế nào.
 ---
 
@@ -30,7 +31,7 @@ Chiếm 51% tức là chiếm 51% hash rate. Đồng nghĩa, về mặt _xác xu
   <p class="caption">Thị phần hash rate giữa các xưởng đào lớn trong 24h ngày 26/11/2018 - theo <a href="https://www.blockchain.com/en/pools" target="_blank">Blockchain.info</a></p>
 </div>
 
-### Chiếm 51% thì KHÔNG làm được gì?
+### Chiếm 51% vẫn KHÔNG làm được gì?
 
 51% thì cũng không thể thay đổi nội dung các giao dịch. Các máy đào chỉ có thể xác nhận các giao dịch có hợp lệ hay không, rồi thực hiện sắp xếp giao dịch vào block để “đào”.
 
