@@ -42,13 +42,13 @@ Cũng không khả thi nếu họ muốn thay đổi cách sắp xếp giao dị
 
 ## Chiếm 51% có thể làm gì?
 
-Thứ nhất, họ có thể “kiểm duyệt” giao dịch vì lý do không lành mạnh. Chẳng hạn, không sắp xếp vào block tấcácả giao dịch gửi đến địa chỉ của Amazon. Điều này thì không cần chiếm 51%, cứ có số % lớn đủ gây ảnh hưởng là có thể làm được.
+Thứ nhất, họ có thể “kiểm duyệt” giao dịch vì lý do không lành mạnh. Chẳng hạn, không sắp xếp vào block tất cả giao dịch gửi đến địa chỉ của Amazon. Điều này thì không cần chiếm 51%, cứ có số % lớn đủ gây ảnh hưởng là có thể làm được.
 
 Thứ hai, họ có thể tiêu 1 khoản tiền 2 lần (double spending).
 
 Để hiểu được vì sao, cần biết thêm về cách thức phối hợp giữa các máy đào. Mỗi khi đào được 1 block hợp lệ, máy đào ngay lập tức phát tán đi khắp mạng lưới. Các máy đào khác khi nhận được sẽ xác nhận, lưu lại, rồi chuyển sang đào block tiếp theo.
 
-Bởi vì đường truyền có độ trễ nên khi bạn đào được 1 block thì cũng mất mấy giây mới truyền tới máy đào khác cách nửa vòng trái đất. Điều ghì xảy ra khi trong thời gian đó máy bên kia cũng đào được? Khi đó xảy ra hiện tượng fork tạm thời: blockchain lưu ở 1 số node có sự khác biệt so với blockchain lưu ở các node còn lại.
+Bởi vì đường truyền có độ trễ nên khi bạn đào được 1 block thì cũng mất mấy giây mới truyền tới máy đào khác cách nửa vòng trái đất. Điều gì xảy ra khi trong thời gian đó máy bên kia cũng đào được? Khi đó xảy ra hiện tượng fork tạm thời: blockchain lưu ở 1 số node có sự khác biệt so với blockchain lưu ở các node còn lại.
 
 Để giải quyết, 1 quy định được đưa ra: bên nào dài hơn bên ấy hợp lệ. Ban đầu thì độ dài của blockchain ở 2 nhánh là bằng nhau. Tuy nhiên, sau một thời gian, nhánh nào được đào bởi tập hợp máy đào có hash rate lớn hơn sẽ dài hơn. Khi đó, các node sẽ đồng loạt chuyển sang dùng bản dài hơn, và nhánh ngắn hơn không còn ý nghĩa. Sẽ chẳng còn máy đào nào phí công đào cái nhánh bỏ đi đó nữa.
 
