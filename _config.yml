@@ -14,6 +14,7 @@ defaults:
     type: posts
   values:
     layout: post
+    image: "/assets/img/trada_cover.png"
     category: blog
     author: Trương Hồng Thi
 lang: vi
