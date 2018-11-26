@@ -21,5 +21,14 @@ google_analytics: UA-8597504-5
 markdown: kramdown
 theme: minima
 show_excerpts: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      category: blog
+      author: Trương Hồng Thi
 plugins:
 - jekyll-feed
