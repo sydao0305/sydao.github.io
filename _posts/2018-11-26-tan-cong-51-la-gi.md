@@ -42,7 +42,7 @@ Cũng không khả thi nếu họ muốn thay đổi cách sắp xếp giao dị
 
 ## Chiếm 51% có thể làm gì?
 
-Thứ nhất, họ có thể “kiểm duyệt” giao dịch vì lý do không lành mạnh. Chẳng hạn, không sắp xếp vào block tất cả giao dịch gửi đến địa chỉ của Amazon. Điều này thì không cần chiếm 51%, cứ có số % lớn đủ gây ảnh hưởng là có thể làm được.
+Thứ nhất, họ có thể “kiểm duyệt” giao dịch với động cơ không trong sáng. Chẳng hạn, không sắp xếp vào block tất cả giao dịch gửi đến địa chỉ của Amazon. Điều này thì không cần chiếm 51%, cứ có số % lớn đủ gây ảnh hưởng là có thể làm được.
 
 Thứ hai, họ có thể tiêu 1 khoản tiền 2 lần (double spending).
 
@@ -54,17 +54,17 @@ Bởi vì đường truyền có độ trễ nên khi bạn đào được 1 blo
 
 Đối tượng máy đào chiếm 51% hash rate có thể tiêu 1 khoản tiền 2 lần theo cách như sau:
 
-- Thực hiện 1 giao dịch chuyển tiền để mua 1 xe máy điện Clara, tạm gọi là _giao dịch A_
+- Thực hiện 1 giao dịch chuyển tiền để mua 1 xe máy điện Klara, tạm gọi là _giao dịch A_
 - Âm thầm thực hiện đào các block, nhưng cố tình bỏ qua giao dịch A kia. Đào được 1 block thì không truyền cho các máy đào khác mà âm thầm đào tiếp trong bóng tối. Ta tạm gọi là _nhánh tối_
 - Ở nhánh sáng, các máy đào khác xác nhận giao dịch A. Phía cửa hàng sau khi thấy giao dịch thành công, đợi 1 thời gian ngắn cho block đủ sâu, rồi giao hàng
-- Lúc này, nhánh tối đã dài hơn nhánh sáng. Sau khi nhận được xe Clara, đối tượng mới thực hiện phát tán nhánh tối ra mạng lưới. Các node đồng loạt chấp nhận nhánh tối, do nó dài hơn. Trong nhánh tối không có giao dịch A, nên tiền vẫn còn trong tài khoản. Trong khi hàng thì đã nhận rồi!
+- Lúc này, nhánh tối đã dài hơn nhánh sáng. Sau khi nhận được xe Klara, đối tượng mới thực hiện phát tán nhánh tối ra mạng lưới. Các node đồng loạt chấp nhận nhánh tối, do nó dài hơn. Trong nhánh tối không có giao dịch A, nên tiền vẫn còn trong tài khoản. Trong khi hàng thì đã nhận rồi!
 
 <div class="media">
   <img src="/assets/img/attack51.jpg">
   <p class="caption">Áo đỏ chiếm 51% âm thầm đào rồi phát tán khi đã dài hơn nhánh chính</p>
 </div>
 
-Như vậy là đối tượng có xe Clara đi mà không mất tiền, sau đó lại dùng tiền đó để tiêu tiếp. Mặc dù cửa hàng đã đợi cho block được xác nhận đủ lâu mới giao hàng nhưng vẫn không tránh được cú lừa này.
+Như vậy là đối tượng có xe Klara đi mà không mất tiền, sau đó lại dùng tiền đó để tiêu tiếp. Mặc dù cửa hàng đã đợi cho block được xác nhận đủ lâu mới giao hàng nhưng vẫn không tránh được cú lừa này.
 
 Hơn nữa, do đào nhánh tối hoàn toàn một mình, đối tượng chiếm toàn bộ tiền thưởng!
 
