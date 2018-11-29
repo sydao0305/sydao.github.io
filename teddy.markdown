@@ -1,5 +1,5 @@
 ---
-title: Teddy
+title: Teddy Nguyen-Trada Tech Co-founder
 date: 2018-11-29 15:50:00 Z
 Name: Teddy Nguyen
 ---
