@@ -28,5 +28,10 @@ google_analytics: UA-8597504-5
 markdown: kramdown
 theme: minima
 show_excerpts: true
+author: thi
+logo: /assets/img/trada_cover.png
+facebook:
+  app_id: 2178421482485741
+  publisher: https://facebook.com/tradatech
 plugins:
 - jekyll-feed
