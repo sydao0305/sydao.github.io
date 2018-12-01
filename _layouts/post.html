@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<h1>{{ page.title }}</h1>
+
+<p class="view">by {{ page.author | default: site.author }}</p>
+
+{{content}}
+
+{% if site.show_tags and page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
+
+<p><small><em>Hãy like <a href="https://www.facebook.com/tradatech/" target="_blank">Facebook page của Trada Tech</a> để được chia sẻ khi có bài viết mới.</em></small></p>
