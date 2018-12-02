@@ -129,7 +129,7 @@ Trước khi tìm hiểu xem làm thế nào để có thể niêm phong lại t
 
 Đã đến lúc chúng ta cùng làm quen với một thứ được gọi là...
 
-#### Cỗ máy thần kỳ (The Magic Machine)
+#### Cỗ máy thần kỳ
 
 Hãy tưởng tượng có một cỗ máy được bao quanh bởi các bức tường dày. Nếu bạn đưa vào cỗ máy này một chiếc hộp chứa bên trong một thứ gì đó từ phía bên trái, nó sẽ trả ra một chiếc hộp chứa một thứ gì đó khác.
 
