@@ -4,7 +4,7 @@ date: 2018-12-02 00:00:00 Z
 layout: post
 author: Mohit Mamoria
 image: https://cdn-images-1.medium.com/max/1600/1*oMwunuVKyqWectTecENigQ.png
-excerpt: Giải thích bằng ngôn ngữ dễ hiểu vỉa hè về blockchain.
+excerpt: Giải thích bằng ngôn ngữ vỉa hè dễ hiểu về blockchain.
 ---
 
 <div class="info">
