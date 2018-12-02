@@ -89,7 +89,7 @@ Trong ví dụ sau đây, giả sử có 10 người. Theo thỏa thuận, mỗi
 
 #### 1. Chuẩn bị
 
-Tất cả mọi người đều được cung cấp: 1 thư mục _rỗng_ để đựng tài liệu, 1 tập giấy _trắng_, và 1 chiệc bút chì. Giờ thì bắt đầu thôi.
+Tất cả mọi người đều được cung cấp: 1 cặp _rỗng_ để đựng tài liệu, 1 tập giấy _trắng_, và 1 chiệc bút. Giờ thì bắt đầu thôi.
 
 #### 2. Giao dịch đầu tiên
 
@@ -109,13 +109,13 @@ Giao dịch khi đó được coi là hoàn thành.
 
 Theo thời gian, ngày càng có nhiều người trong hệ thống có nhu cầu chuyển tiền cho nhau. Cứ mỗi khi muốn thực hiện một giao dịch, họ sẽ thông báo với tất cả những người khác. Và ngay khi nghe thấy thông báo, những người còn lại sẽ kiểm tra rồi viết thông tin giao dịch đó vào trang giấy của mình.
 
-Chẳng bao lâu sau, trang giấy của mọi người đều đã kín. Đã đến lúc phải cất trang giấy đó vào thư mục và lấy ra trang giấy trắng mới để tiếp tục làm việc.
+Chẳng bao lâu sau, trang giấy của mọi người đều đã kín. Đã đến lúc phải cất trang giấy đó vào cặp tài liệu và lấy ra trang giấy trắng mới để tiếp tục làm việc.
 
 #### 4. Niêm phong trang giấy
 
-Trước khi cất, chúng ta cần niêm phong trang giấy bằng một con dấu mà tất cả mọi người trong hệ thống đều đồng ý và xác minh được. Bằng cách đó, chúng ta sẽ đảm bảo rằng mãi mãi không ai có thể thay đổi được nội dụng của trang giấy đó nữa. Trang giấy ở trong thư mục riêng của một người cần phải giống hệt trang tương ứng ở thư mục của những người khác. Giống cả về nội dung lẫn dấu niêm phong.
+Trước khi cất, chúng ta cần niêm phong trang giấy bằng một con dấu mà tất cả mọi người trong hệ thống đều đồng ý và xác minh được. Bằng cách đó, chúng ta sẽ đảm bảo rằng mãi mãi không ai có thể thay đổi được nội dụng của trang giấy đó nữa. Trang giấy ở trong cặp tài liệu riêng của một người cần phải giống hệt trang tương ứng ở cặp tài liệu của những người khác. Giống cả về nội dung lẫn dấu niêm phong.
 
-Một khi đã ở trong thư mục, nó sẽ mãi ở trong đó, và luôn được niêm phong. Hơn nữa, vì mọi người tin tưởng vào dấu niêm phong, họ sẽ tin tưởng vào nội dung của trang giấy. Dấu niêm phong chính là điểm mấu chốt của phương pháp này.
+Một khi đã ở trong cặp tài liệu, nó sẽ mãi ở trong đó, và luôn được niêm phong. Hơn nữa, vì mọi người tin tưởng vào dấu niêm phong, họ sẽ tin tưởng vào nội dung của trang giấy. Dấu niêm phong chính là điểm mấu chốt của phương pháp này.
 
 Quá trình niêm phong này được gọi là "đào" (mining).
 {: .info}
@@ -195,7 +195,7 @@ Giả sử, sau vài nghìn lần thử, chúng ta ngẫu nhiên bắt được 
 
 Trong trường hợp này, con số `21191` được gọi là dấu niêm phong cho số `20893`.
 
-Giả sử nội dung trang giấy cần niêm phong được đại diện bằng con số `20893`. Để niêm phong nó, chúng ta dùng 1 con dấu khắc số `21191` và dóng dấu lên trên trang giấy. Ngay khi được đóng giấu, trang giấy được coi là đã bị niêm phong và có thể được đưa vào thư mục.
+Giả sử nội dung trang giấy cần niêm phong được đại diện bằng con số `20893`. Để niêm phong nó, chúng ta dùng 1 con dấu khắc số `21191` và dóng dấu lên trên trang giấy. Ngay khi được đóng giấu, trang giấy được coi là đã bị niêm phong và có thể được đưa vào cặp tài liệu.
 
 ![Đã niêm phong](https://cdn-images-1.medium.com/max/1600/1*W5XSeKP6xoAQbxmmW4-dog.png)
 
@@ -206,7 +206,7 @@ Nếu ai đó muốn xác nhận xem nội dung của trang có bị thay đổi
 
 Nếu cỗ máy trả về một chuỗi ký tự bắt đầu bằng 3 chữ số 0, có nghĩa nội dung của trang không hề bị thay đổi. Nếu ngược lại, chúng ta có thể vứt bỏ trang giấy đó đi vì nó đã bị ai đó sửa vào và không còn hợp lệ.
 
-Chúng ta sẽ sử dụng cơ chế này để niêm phong tất cả các trang trước khi sắp xếp chúng trong thư mục.
+Chúng ta sẽ sử dụng cơ chế này để niêm phong tất cả các trang trước khi sắp xếp chúng trong cặp tài liệu.
 
 #### Ai là người niêm phong?
 
@@ -225,7 +225,7 @@ Lúc này, tất cả mọi người trong mạng sẽ cùng thực hiện việ
 
 ![Người đầu tiên tìm thấy](https://cdn-images-1.medium.com/max/1600/1*oMwunuVKyqWectTecENigQ.png)
 
-Ngay khi nhận được số niêm phong, tất cả mọi người trong mạng sẽ xác nhận xem nếu dùng cỗ máy thần kỳ với đầu vào là số niêm phong và trang ghi thông tin giao dịch, chuỗi ký tự trả về có thoả mãn yêu cầu đưa ra hay không. Nếu có, từng người sẽ đóng dấu trang thông tin giao dịch của mình với số niêm phong này và đặt nó vào thư mục của mình.
+Ngay khi nhận được số niêm phong, tất cả mọi người trong mạng sẽ xác nhận xem nếu dùng cỗ máy thần kỳ với đầu vào là số niêm phong và trang ghi thông tin giao dịch, chuỗi ký tự trả về có thoả mãn yêu cầu đưa ra hay không. Nếu không vấn đề gì, từng người sẽ đóng dấu trang thông tin giao dịch của mình bằng số niêm phong này và đặt nó vào cặp tài liệu.
 
 Nhưng nếu có ai đó, giả sử là #7, nói rằng số niêm phong này không thoả mãn yêu cầu đầu ra. Những trường hợp như vậy không phải là điều bất thường.
 
@@ -235,9 +235,9 @@ Những lý do có thể gây ra điều này bao gồm:
 - Anh ta có thể đã sai sót khi xử lý thông tin nhận được
 - Anh ta có thể đã cố gắng lừa dối mọi người vì động cơ nào đó
 
-Không quan trọng lý do là gì, #7 chỉ có duy nhất một lựa chọn: bỏ trang ghi thông tin giao dịch của mình đi, rồi copy trang đã được niêm phong từ hàng xóm, sau đó đặt nó vào tập thư mục của mình.
+Không quan trọng lý do là gì, #7 chỉ có duy nhất một lựa chọn: bỏ trang ghi thông tin giao dịch của mình đi, rồi copy trang đã được niêm phong từ hàng xóm, sau đó đặt nó vào cặp tài liệu của mình.
 
-Nếu #7 không đưa trang nào vào thư mục, anh ta không thể tiếp tục viết thêm các giao dịch mới nữa, và như vậy anh ta sẽ không thể tiếp tục tham gia cuộc chơi. Mọi người đều đã sang trang tiếp theo mất rồi!
+Nếu #7 không đưa trang nào vào cặp tài liệu, anh ta không thể tiếp tục viết thêm các giao dịch mới nữa, và như vậy anh ta sẽ không thể tiếp tục tham gia cuộc chơi. Mọi người đều đã sang trang tiếp theo mất rồi!
 
 Số niêm phong nào được đa số thành viên trong mạng chấp thuận sẽ trở thành số niêm phong chính thức được sử dụng.
 {: .non-quote}
@@ -253,9 +253,9 @@ Hãy tưởng tượng đơn giản thế này, nếu #5 tìm ra số niêm phon
 Tiền thưởng chính là thứ thúc đẩy mọi người làm việc, và vì thế hệ thống được duy trì.
 {: .non-quote}
 
-Và mỗi khi mọi người cất trang giấy đã ghi kín thông tin giao dịch của mình vào thư mục, họ lại tiếp tục lấy một trang giấy mới ra, và lặp lại toàn bộ quá trình này - cứ như vậy.
+Và mỗi khi mọi người cất trang giấy đã ghi kín thông tin giao dịch của mình vào cặp tài liệu, họ lại tiếp tục lấy một trang giấy mới ra, và lặp lại toàn bộ quá trình này - cứ như vậy.
 
-Một trang giấy chính là 1 Khối (Block) giao dịch, và thư mục chính là một Chuỗi các Khối (Chain of Block). Giờ thì bạn đã hiểu vì sao gọi là "blockchain" rồi nhé!
+Một trang giấy chính là 1 Khối (Block) giao dịch, và cặp tài liệu chính là một Chuỗi các Khối (Chain of Block). Giờ thì bạn đã hiểu vì sao gọi là "blockchain" rồi nhé!
 {: .info}
 
 <div class="line"></div>
@@ -281,9 +281,9 @@ Hộp thứ 3 sẽ chứa số niêm phong của trang giao dịch trước.
 
 Với thủ thuật nhỏ này, chúng ta có thể đảm bảo rằng bất kỳ trang giao dịch nào đều phụ thuộc vào trang trước đó. Do đó, nếu ai đó có ý định thay đổi một trang trong quá khứ, ngoài việc số niêm phong ở trang đó bị sai thì tất cả các số niêm phong ở các trang sau đó cũng bị sai. Anh ta sẽ phải niêm phong lại tất cả các trang sau đó, để giữ cho tập tài liệu của mình được hợp lệ.
 
-Chúng ta đã biết, việc tính toán ra số niêm phong mất thời gian (và năng lượng) thế nào. Nếu 1 người gian dối muốn sửa quá khứ, anh ta sẽ không thể nào niêm phong thư mục của mình kịp tiến độ với 9 người còn lại.
+Chúng ta đã biết, việc tính toán ra số niêm phong mất thời gian (và năng lượng) thế nào. Nếu 1 người gian dối muốn sửa quá khứ, anh ta sẽ không thể nào niêm phong kịp tiến độ với 9 người còn lại.
 
-Theo quy định, chuỗi dài nhất (thư mục chứa nhiều trang giấy nhất) là trung thực.
+Theo quy định, chuỗi dài nhất (cặp tài liệu chứa nhiều trang giấy nhất) là trung thực.
 {: .non-quote}
 
 ![Chuỗi dài nhất là trung thực](https://cdn-images-1.medium.com/max/2000/1*CRmIEzvK0k1fM--onASiHQ.png)
