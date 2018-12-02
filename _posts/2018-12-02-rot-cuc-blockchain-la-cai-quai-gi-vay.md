@@ -15,7 +15,7 @@ excerpt: Giải thích bằng ngôn ngữ vỉa hè dễ hiểu về blockchain.
 __Trừ khi bạn từ trên trời rơi xuống__ còn không chắc chắn bạn đã từng nghe nói đến Bitcoin và Blockchain.
 Đây là 2 từ khóa nổi bật được nhắc đến nhiều trong thời gian qua. Ngay cả anh xe ôm hay bà bán nước cũng bàn tán về nó.
 
-Tôi có nhiều người bạn không làm trong ngành kỹ thuật nhưng vài tuần trở lại đây họ cũng nhờ tôi giải thích về những từ khóa mới này. Tôi đoán có hàng ngàn người ngoài kia cũng cảm thấy như vậy. Và mỗi khi điều đó xảy ra, đấy là cơ hội để viết 1 bài giải ngố, không sử dụng từ ngữ cao siêu, để ai cũng có thể hiểu. Đó là mục đích của bài viết này: để bạn có thể gửi link cho "những tâm hồn lạc lối" kia, mỗi khi họ nhờ giải thích về blockchain.
+Tôi có nhiều người bạn không làm trong ngành kỹ thuật nhưng vài tuần trở lại đây họ cũng nhờ tôi giải thích về những từ khóa mới này. Tôi đoán có hàng ngàn người ngoài kia cũng cảm thấy như vậy. Và mỗi khi điều đó xảy ra, đấy là cơ hội để viết 1 bài giải ngố, không sử dụng từ ngữ cao siêu, để ai cũng có thể hiểu. Đó là mục đích của bài viết này: để bạn có thể gửi link cho "những tâm hồn lạc lối" kia, mỗi khi họ hỏi “Blockchain là cái &*^% gì?”
 
 ### Blockchain - sao lại cần một thứ phức tạp đến vậy?
 
