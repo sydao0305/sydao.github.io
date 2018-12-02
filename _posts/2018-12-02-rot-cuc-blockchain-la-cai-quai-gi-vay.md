@@ -133,7 +133,7 @@ Trước khi tìm hiểu xem làm thế nào để có thể niêm phong lại t
 
 Hãy tưởng tượng có một cỗ máy được bao quanh bởi các bức tường dày. Nếu bạn đưa vào cỗ máy này một chiếc hộp chứa bên trong một thứ gì đó từ phía bên trái, nó sẽ trả ra một chiếc hộp chứa một thứ gì đó khác.
 
-Chiếc hộp này có tên thật là Hash Function (Hàm băm). Nhưng để cho đơn giản, hãy gọi nó là Cỗ máy thần kỳ.
+Cỗ máy này có tên thật là Hash Function (Hàm băm). Nhưng để cho đơn giản, hãy gọi nó là Cỗ máy thần kỳ.
 {: .info}
 
 ![Cỗ máy thần kỳ](https://cdn-images-1.medium.com/max/1600/1*ox9O7DmN1I1AiyNygulCrw.png)
