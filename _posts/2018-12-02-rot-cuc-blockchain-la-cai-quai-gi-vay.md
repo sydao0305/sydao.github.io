@@ -89,7 +89,7 @@ Trong ví dụ sau đây, giả sử có 10 người. Theo thỏa thuận, mỗi
 
 #### 1. Chuẩn bị
 
-Tất cả mọi người đều được cung cấp: 1 cặp _rỗng_ để đựng tài liệu, 1 tập giấy _trắng_, và 1 chiệc bút. Giờ thì bắt đầu thôi.
+Tất cả mọi người đều được phát: 1 cặp _rỗng_ để đựng tài liệu, 1 tập giấy _trắng_, và 1 chiếc bút. Giờ thì bắt đầu thôi.
 
 #### 2. Giao dịch đầu tiên
 
