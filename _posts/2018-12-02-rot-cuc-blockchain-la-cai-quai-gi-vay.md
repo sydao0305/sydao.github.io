@@ -253,7 +253,7 @@ Hãy tưởng tượng đơn giản thế này, nếu #5 tìm ra số niêm phon
 Tiền thưởng chính là thứ thúc đẩy mọi người làm việc, và vì thế hệ thống được duy trì.
 {: .non-quote}
 
-Và mỗi khi mọi người cất trang giấy đã ghi kín thông tin giao dịch của mình vào thư mục, họ lại tiếp tục lấy ra một trang giấy mới ra, và lặp lại toàn bộ quá trình này - cứ như vậy.
+Và mỗi khi mọi người cất trang giấy đã ghi kín thông tin giao dịch của mình vào thư mục, họ lại tiếp tục lấy một trang giấy mới ra, và lặp lại toàn bộ quá trình này - cứ như vậy.
 
 Một trang giấy chính là 1 Khối (Block) giao dịch, và thư mục chính là một Chuỗi các Khối (Chain of Block). Giờ thì bạn đã hiểu vì sao gọi là "blockchain" rồi nhé!
 {: .info}
