@@ -189,7 +189,7 @@ Hãy tưởng tượng tôi đưa cho bạn 2 chiếc hộp. Chiếc hộp đầ
 
 Tình huống này tương tự những ví dụ ở phần trước. Cách duy nhất để tính toán ra con số cần tìm là lần lượt thử tất cả các số hợp lệ từ 0 đến vô cùng.
 
-Giả sử, sau vài nghìn lần thử, chúng ta ngẫu nhiên bắt được con số đó, là số `21191`. Khi cộng với `20893` + `21191` = `42084`). Đưa qua cỗ máy, nó trả về chuỗi ký tự bắt đầu bằng 3 số 0 là `00078`.
+Giả sử, sau vài nghìn lần thử, chúng ta ngẫu nhiên bắt được con số đó, là số `21191`. `20893` + `21191` = `42084`. Đưa qua cỗ máy, nó trả về chuỗi ký tự bắt đầu bằng 3 số 0 là `00078`.
 
 ![Đã tìm ra](https://cdn-images-1.medium.com/max/1600/1*ewcdx7L6_D1RIvbPFrMYiw.png)
 
@@ -202,7 +202,7 @@ Giả sử nội dung trang giấy cần niêm phong được đại diện bằ
 Con số niêm phong được gọi là Proof of Work (PoW). Có nghĩa nó là bằng chứng cho công sức tính toán ra nó (công sức thử lần lượt các số cho đến khi tìm ra số thoả mãn). Ở bài viết này, chúng ta vẫn sẽ thống nhất gọi nó là số niêm phong nhé.
 {: .info}
 
-Nếu ai đó muốn xác nhận xem nội dung của trang có bị thay đổi không sau khi đã niêm phong không, tất cả những gì anh ta cần làm là cộng nội dung của trang với số niêm phong và đưa qua cỗ máy thần kỳ.
+Nếu ai đó muốn xác nhận xem nội dung của trang có bị thay đổi sau khi đã niêm phong không, tất cả những gì anh ta cần làm là cộng nội dung của trang với số niêm phong và đưa qua cỗ máy thần kỳ.
 
 Nếu cỗ máy trả về một chuỗi ký tự bắt đầu bằng 3 chữ số 0, có nghĩa nội dung của trang không hề bị thay đổi. Nếu ngược lại, chúng ta có thể vứt bỏ trang giấy đó đi vì nó đã bị ai đó sửa vào và không còn hợp lệ.
 
