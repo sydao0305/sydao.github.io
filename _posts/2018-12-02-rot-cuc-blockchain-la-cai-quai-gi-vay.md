@@ -217,7 +217,7 @@ Chúng ta sẽ sử dụng cơ chế này để niêm phong tất cả các tran
 __Lưu ý__ tôi hay sử dụng cụm từ "chuỗi ký tự bắt đầu bằng 3 chữ số 0" chỉ như là một ví dụ đơn giản. Mục đích là để minh hoạ cỗ máy thần kỳ hoạt động như thế nào. Câu đố được dùng trong thực tế phức tạp hơn rất nhiều, không đơn giản là 3 số 0.
 {: .info}
 
-Một khi đã bỏ ra thời gian (và điện năng) để tính ra số niêm phong, nó sẽ được dùng để niêm phong trang thông tin giao dịch. Nếu có một ai đó thử thay đổi nội dung của trang giấy này, số niêm phong sẽ cho phép bất kỳ ai cũng có thể kiểm tra tính toàn vẹn của trang giấy.
+Một khi đã bỏ ra thời gian (và điện năng) để tính ra số niêm phong, nó sẽ được dùng để niêm phong trang thông tin giao dịch. Nếu có một ai đó thử thay đổi nội dung của trang giấy này, số niêm phong sẽ cho phép bất kỳ ai cũng có thể kiểm tra và phát giác.
 
 Sau khi đã hiểu về cơ chế niêm phong, chúng ta sẽ cùng quay lại thời điểm khi trang ghi đã kín và hết chỗ để viết thêm.
 
