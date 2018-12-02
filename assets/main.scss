@@ -19,12 +19,37 @@
     font-size: 0.9em;
     padding-top: 4px;
 }
-blockquote {
-    font-size: 1rem;
-    font-style: normal;
-    border-left: 6px solid #60E1AC;
-    padding-left: 12px;
+.non-quote {
+    font-size: 1.25rem;
     letter-spacing: 0;
+    color: #686868;
+    padding: 4.5%;
+    text-align: center;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+blockquote {
+    font-size: 1.25rem;
+    letter-spacing: 0;
+    color: #686868;
+    position: relative;
+    padding: 16px 16px 16px 48px;
+}
+blockquote::before{
+    content: "\201C";
+    color:#e8e8e8;
+    font-size:4em;
+    position: absolute;
+    left: 10px;
+    top:-20px;
+    font-family: Arial;
+  }
+blockquote cite {
+    font-style: initial;
+    font-size: 0.9rem;
+    font-weight: bold;
+    display: block;
+    padding-top: 0.5rem;
 }
 .site-title .logo {
     height: 42px;
