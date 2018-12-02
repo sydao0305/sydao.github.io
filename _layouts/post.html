@@ -44,12 +44,14 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 
-  <div id="fb-root"></div>
-   <script>(function(d, s, id) {
-   var js, fjs = d.getElementsByTagName(s)[0];
-   if (d.getElementById(id)) return;
-   js = d.createElement(s); js.id = id;
-   js.src = "//connect.facebook.net/vi-VN/all.js#xfbml=1&appId=2178421482485741";
-   fjs.parentNode.insertBefore(js, fjs);
-   }(document, "script", "facebook-jssdk"));</script>
 </article>
+
+<style>.fb_iframe_widget, .fb_iframe_widget>span, .fb_iframe_widget>span>iframe { width: 100% !important; }</style>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.2&appId=187125578655442&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
