@@ -210,11 +210,11 @@ Chúng ta sẽ sử dụng cơ chế này để niêm phong tất cả các tran
 
 #### Ai là người niêm phong?
 
-Để niêm phong trang giấy ghi các thông tin giao dịch của toàn bộ hệ thống, chúng ta cần tìm ra một con số mà khi nối vào danh sách giao dịch và đưa qua cỗ máy thần kỳ, chúng ta sẽ thu được một chuỗi ký tự bắt đầu bằng 3 chữ số 0.
+Để niêm phong trang giấy ghi các thông tin giao dịch của bộ hệ thống, chúng ta cần tìm ra một con số mà khi nối vào danh sách giao dịch và đưa qua cỗ máy thần kỳ, chúng ta sẽ thu được một chuỗi ký tự bắt đầu bằng 3 chữ số 0.
 
 ![Tìm số niêm phong cả trang giấy](https://cdn-images-1.medium.com/max/1600/1*ijsTUoELxn6zFkBa7r23VA.png)
 
-__Lưu ý__ tôi hay sử dụng cụm từ "chuỗi ký tự bắt đầu bằng 3 chữ số 0" chỉ như là một ví dụ đơn giản. Mục đích là để minh hoạ các Hash Function hoạt động như thế nào. Câu đố được dùng trong thực tế phức tạp hơn rất nhiều, không đơn giản là 3 số 0.
+__Lưu ý__ tôi hay sử dụng cụm từ "chuỗi ký tự bắt đầu bằng 3 chữ số 0" chỉ như là một ví dụ đơn giản. Mục đích là để minh hoạ cỗ máy thần kỳ hoạt động như thế nào. Câu đố được dùng trong thực tế phức tạp hơn rất nhiều, không đơn giản là 3 số 0.
 {: .info}
 
 Một khi đã bỏ ra thời gian (và điện năng) để tính ra số niêm phong, nó sẽ được dùng để niêm phong trang thông tin giao dịch. Nếu có một ai đó thử thay đổi nội dung của trang giấy này, số niêm phong sẽ cho phép bất kỳ ai cũng có thể kiểm tra tính toàn vẹn của trang giấy.
@@ -225,7 +225,7 @@ Lúc này, tất cả mọi người trong mạng sẽ cùng thực hiện việ
 
 ![Người đầu tiên tìm thấy](https://cdn-images-1.medium.com/max/1600/1*oMwunuVKyqWectTecENigQ.png)
 
-Ngay khi nhận được số niêm phong, tất cả mọi người trong mạng sẽ xác nhận xem nếu dùng Hash Function (cỗ máy thần kỳ) với đầu vào là số niêm phong và trang ghi thông tin giao dịch, chuỗi ký tự trả về có thoả mãn yêu cầu đưa ra hay không. Nếu có, từng người sẽ đóng dấu trang thông tin giao dịch của mình với số niêm phong này và đặt nó vào thư mục của mình.
+Ngay khi nhận được số niêm phong, tất cả mọi người trong mạng sẽ xác nhận xem nếu dùng cỗ máy thần kỳ với đầu vào là số niêm phong và trang ghi thông tin giao dịch, chuỗi ký tự trả về có thoả mãn yêu cầu đưa ra hay không. Nếu có, từng người sẽ đóng dấu trang thông tin giao dịch của mình với số niêm phong này và đặt nó vào thư mục của mình.
 
 Nhưng nếu có ai đó, giả sử là #7, nói rằng số niêm phong này không thoả mãn yêu cầu đầu ra. Những trường hợp như vậy không phải là điều bất thường.
 
