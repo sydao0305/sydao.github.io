@@ -164,7 +164,7 @@ Tôi có nghĩ đến một phương pháp. Đó là sao chúng ta không lần 
 
 ![Cứ thử lần lượt từng số một](https://cdn-images-1.medium.com/max/1600/1*NanhTPqi85WkwQoEpGQGHw.png)
 
-Hãy lạc quan lên, sau vài nghìn lần thử, biết đâu chúng ta sẽ tìm được chuỗi ký tự đáp ứng yêu cầu ban đầu (chuỗi ký tự bắt đầu với 3 chữ số 0)!
+Hãy lạc quan lên, sau vài nghìn lần thử, biết đâu chúng ta sẽ tìm được chuỗi ký tự đáp ứng yêu cầu (đầu với 3 chữ số 0)!
 
 ![Đã tìm được số đầu vào](https://cdn-images-1.medium.com/max/1600/1*_BOLJbfmKu8U1LNTtS_UMw.png)
 
@@ -176,7 +176,7 @@ Tất cả những gì bạn cần làm là ném con số này vào cỗ máy th
 
 Đó cũng chính là chức năng quan trọng nhất của cỗ máy này.
 
-Với một kết quả đầu ra cho trước, sẽ hầu như không thể truy ngược lại giá trị đầu vào. Nhưng nếu đã có cả giá trị đầu ra và đầu vào, bạn sẽ sẽ dành xác minh được chúng có phải là "1 cặp" hay không. Chỉ cần ném đầu vào vào máy, và so sánh đầu ra.
+Với một kết quả đầu ra cho trước, sẽ hầu như không thể truy ngược lại giá trị đầu vào. Nhưng nếu đã có cả giá trị đầu ra và đầu vào, bạn sẽ dễ dàng xác minh được chúng có phải là "1 cặp" hay không. Chỉ cần ném đầu vào vào máy, và so sánh đầu ra.
 {: .non-quote}
 
 #### Sử dụng cỗ máy này để niêm phong như thế nào?
