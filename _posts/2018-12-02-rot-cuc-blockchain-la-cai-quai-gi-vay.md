@@ -235,20 +235,20 @@ Những lý do có thể gây ra điều này bao gồm:
 - Anh ta có thể đã sai sót khi xử lý thông tin nhận được
 - Anh ta có thể đã cố gắng lừa dối mọi người vì động cơ nào đó
 
-Không quan trọng lý do là gì, #7 chỉ có duy nhất một lựa chọn: bỏ trang ghi thông tin giao dịch của mình rồi copy trang đã được niêm phong từ hàng xóm, sau đó đặt nó vào tập thư mục của mình.
+Không quan trọng lý do là gì, #7 chỉ có duy nhất một lựa chọn: bỏ trang ghi thông tin giao dịch của mình đi, rồi copy trang đã được niêm phong từ hàng xóm, sau đó đặt nó vào tập thư mục của mình.
 
-Nếu #7 không đưa trang nào vào tập thư mục, anh ta không thể tiếp tục viết thêm các giao dịch khác nữa, và như vậy anh ta sẽ không thể tiếp tục tham gia cuộc chơi. Mọi người đều đã sang trang tiếp theo mất rồi!
+Nếu #7 không đưa trang nào vào thư mục, anh ta không thể tiếp tục viết thêm các giao dịch mới nữa, và như vậy anh ta sẽ không thể tiếp tục tham gia cuộc chơi. Mọi người đều đã sang trang tiếp theo mất rồi!
 
 Số niêm phong nào được đa số thành viên trong mạng chấp thuận sẽ trở thành số niêm phong chính thức được sử dụng.
 {: .non-quote}
 
 __Một câu hỏi được đặt ra là, vậy tại sao tất cả mọi người lại phải bỏ công sức, nguồn lực của mình để thực hiện việc tính toán số niêm phong. Tại sao không đơn giản chỉ cần ngồi đợi người khác tính và thông báo cho mình?__
 
-Đây là một câu hỏi tuyệt vời. Ai cũng ngồi đợi thì hệ thống không thể hoạt động. Chúng ta cần phần thưởng! Tất cả mọi người là thành viên của mạng Blockchain đều có đủ tiêu chuẩn tham gia tìm số niêm phong để nhận phần thưởng. Người đầu tiên tìm ra được số niêm phong sẽ nhận được phần thưởng, bù lại những nỗ lực anh ta đã bỏ ra (tiền máy móc, tiền điện, v.v.).
+Đây là một câu hỏi tuyệt vời. Ai cũng ngồi đợi thì hệ thống không thể hoạt động. Chúng ta cần phần thưởng! Tất cả mọi người là thành viên của mạng Blockchain đều có đủ tiêu chuẩn tham gia tìm số niêm phong để nhận phần thưởng. Người đầu tiên tìm ra được số niêm phong sẽ nhận được phần thưởng, dành cho công sức anh ta đã bỏ ra (tiền máy móc, tiền điện, v.v.).
 
 Hãy tưởng tượng đơn giản thế này, nếu #5 tìm ra số niêm phong của một trang, anh ta sẽ nhận được phần thưởng là một khoản tiền. Tài khoản của #5 được cộng thêm, nhưng không có ai trong hệ thống phải chuyển tiền cho #5. Tiền thưởng được hệ thống "in" ra để thưởng, vì vậy mà gọi là "đào" - đào được tiền thưởng (vàng) từ lòng đất.
 
-Đó chính là cách Bitcoin ra đời. Đó là loại tiền tệ đầu tiên được giao dịch trên Blockchain (sổ cái phân tán). Các thành viên nỗ lực tính toán "số niêm phong" để giữ cho hệ thống chạy. Đổi lại, họ được trả công bằng tiền thưởng, bằng chính những đồng bitcoin).
+Đó chính là cách Bitcoin ra đời. Đó là loại tiền tệ đầu tiên được giao dịch trên Blockchain (sổ cái phân tán). Các thành viên nỗ lực tính toán "số niêm phong" để giữ cho hệ thống chạy. Đổi lại, họ được trả thưởng bằng chính những đồng bitcoin.
 
 Tiền thưởng chính là thứ thúc đẩy mọi người làm việc, và vì thế hệ thống được duy trì.
 {: .non-quote}
