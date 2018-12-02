@@ -281,7 +281,7 @@ Hộp thứ 3 sẽ chứa số niêm phong của trang giao dịch trước.
 
 Với thủ thuật nhỏ này, chúng ta có thể đảm bảo rằng bất kỳ trang giao dịch nào đều phụ thuộc vào trang trước đó. Do đó, nếu ai đó có ý định thay đổi một trang trong quá khứ, ngoài việc số niêm phong ở trang đó bị sai thì tất cả các số niêm phong ở các trang sau đó cũng bị sai. Anh ta sẽ phải niêm phong lại tất cả các trang sau đó, để giữ cho tập tài liệu của mình được hợp lệ.
 
-Chúng ta đã biết, việc tính toán ra số niêm phong mât thời gian (và năng lượng) thế nào. Nếu 1 người gian dối muốn sửa quá khứ, anh ta sẽ không thể nào niêm phong thư mục của mình kịp tiến độ với 9 người còn lại.
+Chúng ta đã biết, việc tính toán ra số niêm phong mất thời gian (và năng lượng) thế nào. Nếu 1 người gian dối muốn sửa quá khứ, anh ta sẽ không thể nào niêm phong thư mục của mình kịp tiến độ với 9 người còn lại.
 
 Theo quy định, chuỗi dài nhất (thư mục chứa nhiều trang giấy nhất) là trung thực.
 {: .non-quote}
@@ -300,6 +300,6 @@ Trong trường hợp này, những người khác không còn có thể tin và
 
 Và đó là lý do duy nhất để Blockchain có thể sụp đổ, nếu có lúc nào đó nó sụp đổ. Có thể chúng ta tin tưởng rằng điều này khó có thể xảy ra, nhưng dù sao vẫn cần phải biết điểm yếu của hệ thống. Blockchain được xây dựng trên giả định rằng đa số đám đông luôn luôn là trung thực.
 
-Xong rồi đấy. Tóm lại là blockchain hoạt động như vậy. Bây giờ, nếu có ai hỏi bạn "Blockchain là cái &*^% gì?", chỉ cần gửi link bài viết này cho họ là xong.
+Xong rồi đấy. Tóm lại là blockchain nó hoạt động như vậy. Bây giờ, nếu có ai hỏi bạn "Blockchain là cái &*^% gì?" thì chỉ cần gửi link bài viết này cho họ là xong.
 
 Bạn có nghĩ ra ai cần đọc bài này? Hãy share lại cho họ luôn.
