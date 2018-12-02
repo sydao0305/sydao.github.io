@@ -9,7 +9,7 @@ excerpt: Giải thích bằng ngôn ngữ vỉa hè dễ hiểu về blockchain.
 
 <div class="info">
 <h5>Lời người dịch</h5>
-<p>Bài viết này của Mohit Mamoria được đăng trên tạp chí <a href="https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348" target="_blank">Hackernoon</a> ngày 30/6/2017. Nhận thấy bài viết vẫn còn rất hữu ích ở hiện tại, cộng tác viên <a href="https://www.facebook.com/spencer.luu.12" target="_blank">Spencer Luu</a> đã hiệu đính lại, dựa trên bản dịch của Bùi Quang Tân trên <a href="https://kipalog.com/posts/Blockchain-la-cai-quai-gi-vay---" target="_blank">Kipalog</a>.</p>
+<p>Bài viết này của Mohit Mamoria được đăng trên tạp chí <a href="https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348" target="_blank">Hackernoon</a> ngày 30/6/2017. Nhận thấy bài viết vẫn còn rất hữu ích ở hiện tại, cộng tác viên <a href="https://www.facebook.com/nguyet.luu.7509" target="_blank">Spencer Luu</a> đã hiệu đính lại, dựa trên bản dịch của Bùi Quang Tân trên <a href="https://kipalog.com/posts/Blockchain-la-cai-quai-gi-vay---" target="_blank">Kipalog</a>.</p>
 </div>
 
 __Trừ khi bạn từ trên trời rơi xuống__ còn không chắc chắn bạn đã từng nghe nói đến Bitcoin và Blockchain.
