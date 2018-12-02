@@ -299,6 +299,6 @@ Trong trường hợp này, những người khác không còn có thể tin và
 
 Và đó là lý do duy nhất để Blockchain có thể sụp đổ, nếu có lúc nào đó nó sụp đổ. Có thể chúng ta tin tưởng rằng điều này khó có thể xảy ra, nhưng dù sao vẫn cần phải biết điểm yếu của hệ thống. Blockchain được xây dựng trên giả định rằng đa số đám đông luôn luôn là trung thực.
 
-Và đấy chính là cách blockchain hoạt động. Bây giờ, nếu có ai hỏi bạn "Blockchain là cái &*^% gì?", hãy gửi link bài viết này cho họ.
+Xong rồi đấy. Tóm lại là blockchain hoạt động như vậy. Bây giờ, nếu có ai hỏi bạn "Blockchain là cái &*^% gì?", chỉ cần gửi link bài viết này cho họ là xong.
 
-Bạn có nghĩ ra ai cần đọc bài này? Hãy share lại.
+Bạn có nghĩ ra ai cần đọc bài này? Hãy share lại cho họ luôn.
