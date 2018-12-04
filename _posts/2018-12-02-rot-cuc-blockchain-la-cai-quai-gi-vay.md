@@ -15,7 +15,7 @@ excerpt: Giải thích bằng ngôn ngữ vỉa hè dễ hiểu về blockchain.
 __Trừ khi bạn từ trên trời rơi xuống__ còn không chắc chắn bạn đã từng nghe nói đến Bitcoin và Blockchain.
 Đây là 2 từ khóa nổi bật được nhắc đến nhiều trong thời gian qua. Ngay cả anh xe ôm hay bà bán nước cũng bàn tán về nó.
 
-Tôi có nhiều người bạn không làm trong ngành kỹ thuật nhưng vài tuần trở lại đây họ cũng nhờ tôi giải thích về những từ khóa mới này. Tôi đoán có hàng ngàn người ngoài kia cũng cảm thấy như vậy. Và mỗi khi điều đó xảy ra, đấy là cơ hội để viết 1 bài giải ngố, không sử dụng từ ngữ cao siêu, để ai cũng có thể hiểu. Đó là mục đích của bài viết này: để bạn có thể gửi link cho "những tâm hồn lạc lối" kia, mỗi khi họ hỏi “Blockchain là cái &*^% gì?”
+Tôi có nhiều người bạn không làm trong ngành kỹ thuật nhưng gần đây họ cũng nhờ tôi giải thích về những từ khóa mới này. Tôi đoán có hàng ngàn người ngoài kia cũng cảm thấy như vậy. Và mỗi khi điều đó xảy ra, đấy là cơ hội để viết 1 bài giải ngố, không sử dụng từ ngữ cao siêu, để ai cũng có thể hiểu. Đó là mục đích của bài viết này: để bạn có thể gửi link cho "những tâm hồn lạc lối" kia, mỗi khi họ hỏi “Blockchain là cái &*^% gì?”
 
 ### Blockchain - sao lại cần một thứ phức tạp đến vậy?
 
@@ -270,7 +270,7 @@ Như chúng ta đã cùng thảo luận trước đó, số niêm phong sẽ cho
 
 ### Chống thay đổi số niêm phong của trang trong quá khứ
 
-Bạn có nhớ lúc trước tôi đã bảo là đưa cho bạn 2 chiếc hộp không? Một chiếc hộp chứa con số `20893`, chiếc còn lại để trống để chứa con số bạn sẽ tính toán. Trong thực tế, để tính toán một số niêm phong trong một Blockchain, thay vì 2, hệ thống sẽ cung cấp cho bạn 3 hộp - 2 hộp đã được điền sẵn và một hộp trống để dành cho bạn.
+Bạn có nhớ lúc trước tôi đã bảo là đưa cho bạn 2 chiếc hộp không? Một chiếc hộp chứa con số `20893`, chiếc còn lại để trống để chứa con số bạn sẽ tính toán. Trong thực tế, để tính toán một số niêm phong trong một Blockchain, thay vì 2, hệ thống sẽ cung cấp cho bạn 3 hộp: 2 hộp đã được điền sẵn và một hộp trống để dành cho bạn.
 
 Sẽ phải ghép cả 3 hộp này lại để đưa vào cỗ máy thần kỳ tìm số niêm phong.
 
