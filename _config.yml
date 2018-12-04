@@ -20,6 +20,11 @@ defaults:
     image: "/assets/img/trada_cover.png"
     category: blog
     author: thi
+- scope:
+    path: ''
+    type: pages
+  values:
+    image: "/assets/img/trada_cover.png"
 lang: vi
 description: Hiểu đúng làm thực blockchain.
 baseurl: "/"
