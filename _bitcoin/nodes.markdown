@@ -32,3 +32,21 @@ Mỗi node ( bitcoin client ) được lập trình để tuân theo một loạ
 Ví dụ có 1 rule là một người phải sở hữu một lượng bitcoin bằng hoặc lớn hơn số lượng bitcoin mà họ muốn chuyển đi cho người khác. Nếu như node của bạn nhận được một transaction mà ai đó cố gắng chuyển đi số lượng bitcoin lớn hơn số mà họ có thì transcation này tính là không hợp lệ và không được chuyển đi cho các node khác xử lý tiếp.
 
 **2. Chia sẻ thông tin**
+
+Công việc chính của một node là chia sẻ thông tin với những node khác và thông tin  tinh túy quan trọng nhất mà các node chia sẻ với nhau đó chính là các giao dịch.
+
+Có 2 loại giao dịch mà các node chia sẻ
+
+1\. Các giao dịch mới ( fresh transaction ): là các giao dịch mới được thêm vào mạng lưới ( network )
+
+2\. Các giao dịch đã được xác nhận ( confirmed transaction ): là các giao dịch vừa mới được xác nhận và viết vào file. Các giao dịch này sẽ được chia sẻ trong các *blocks*  ( chứa một tập các transaction ) một cách công khai.
+
+![01-node_transaction_type_sharing.png](/uploads/01-node_transaction_type_sharing.png)
+
+Hiện thời các bạn không cần quan tâm đến sự khác nhau giữa 2 loại nodes này, chúng sẽ được làm rõ trong các bài viết về Mining và  Blocks sau.
+
+**3. Giữ bản copy của các transaction đã được xác nhận**
+
+Như đã đề cập ở trên mỗi Node sẽ giữ một chuỗi các blocks ghi các transaction. Chúng sẽ được tổ chức trong cùng 1 file gọi là blockchain.
+
+![02-node_blockchain.png](/uploads/02-node_blockchain.png)
