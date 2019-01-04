@@ -28,5 +28,7 @@ layout: home
 * Private Keys
 
 * Public Keys
-    *Digital Signatures
-        *Signing & Verifying
+
+  * Digital Signatures
+
+       * Signing & Verifying
