@@ -1,6 +1,8 @@
 ---
 title: Dành cho người mới bắt đầu tìm hiểu về Bitcoin
 date: 2019-01-04 03:00:00 Z
+permalink: "/bitcoin"
+layout: home
 ---
 
 1. **Mạng Bitcoin **
