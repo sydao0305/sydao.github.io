@@ -23,7 +23,7 @@ Một node sẽ có 3 công việc
 
 3\. Lưu giữ một bản copy của các giao dịch đã được xác nhận ( confirmed transactions).
 
-**1.  Làm theo các rule **
+**1.  Làm theo các rule**
 
 Mỗi node ( bitcoin client ) được lập trình để tuân theo một loạt các luật ( rule ).  Bằng cách tuân thủ các luật này thì một node có thể kiểm tra được các giao dịch và chỉ chuyển tiếp ( relay ) nếu mọi thứ ok. Còn nếu gặp bất cứ vấn đề gì thì giao dịch sẽ bị bỏ qua
 
