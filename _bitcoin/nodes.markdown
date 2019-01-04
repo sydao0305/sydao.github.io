@@ -50,3 +50,23 @@ Hiện thời các bạn không cần quan tâm đến sự khác nhau giữa 2 
 Như đã đề cập ở trên mỗi Node sẽ giữ một chuỗi các blocks ghi các transaction. Chúng sẽ được tổ chức trong cùng 1 file gọi là blockchain.
 
 ![02-node_blockchain.png](/uploads/02-node_blockchain.png)
+
+Các transaction mới sẽ được đi loanh quanh trên mạng ( bitcoin network ) cho đến khi chúng được khắc vào blockchain, đối với mạng bitcoin thì blockchain của bitcoin về bản chất là một sổ cái lưu lại các giao dịch chuyển bitcoin đã được xác nhận ( confiremd ) giữa các tài khoản.
+
+Mỗi Node có một bản copy của blockchain để đảm bảo an toàn cho các giao dịch, và các node sẽ chia sẻ phiên bản mới nhất của blockchain cho các node khác nếu các node đó chưa được update.
+
+> Ở đây mỗi một node có khả năng tự trị , tự vận hành  ( autonomous ). Có nghĩa là   khi bạn chạy một bitcoin client thì network sẽ không nói cho bạn cần phải làm gì, mà bitcoin client tự nó biết điều gì cần làm, nó tự ra quyết định để làm điều đó.
+>
+> Do đó Bitcoin network là một mạng lưới được tạo thành từ tập hợp các nodes mạng có khả năng tự ra quyết định của riêng nó nhưng các node mạng này lại ra những quyết định giống như các node mạng khác. Chúng tạo nên một mạng phi tập trung ( decentralized network ) mạnh mẽ.
+>
+> Nếu như mọi Node mạng khác chuyển sang offline, thì Node của bạn sẽ duy trì toàn bộ Bitcoin network.
+
+**Liệu tôi có cần phải sở hữu một node mạng mới có thể sử dụng bitcoin?**
+
+Câu trả lời là KHÔNG. Bạn có thể gửi và nhận bitcoin mà không cần phải sở hữu node mạng, bạn chỉ một địa chỉ trên blockchain và gửi transaction của mình lên bitcoin network và nó sẽ xử lý giúp bạn
+
+![03-nodes_network_insert_transaction.png](/uploads/03-nodes_network_insert_transaction.png)
+
+Ví dụ bạn có sử dụng một cái ví trên web ( web wallet ) bạn có thể thao tác trên ví này để tạo ra một transaction trên mạng lưới ( bitcoin network ).\
+\
+Nội dung và ảnh được lấy từ http://learnmeabitcoin.com
