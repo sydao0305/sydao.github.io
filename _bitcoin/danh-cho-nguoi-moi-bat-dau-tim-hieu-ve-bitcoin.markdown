@@ -7,7 +7,7 @@ layout: post
 
 **1. Mạng Bitcoin**
 
-* Nodes
+* [Nodes](https://trada.tech/bitcoin/nodes)
 
 **2. Mining**
 
@@ -21,7 +21,7 @@ layout: post
 
 * Outputs
 
-  - Output Locks
+  * Output Locks
 
 **4. Khóa và địa chỉ (Keys & Addresses)**
 
@@ -29,6 +29,6 @@ layout: post
 
 * Public Keys
 
-  - Digital Signatures
+  * Digital Signatures
 
     * Signing & Verifying
