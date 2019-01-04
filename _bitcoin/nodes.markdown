@@ -11,7 +11,7 @@ layout: post
 
 ![05-nodes_network.png](/uploads/05-nodes_network.png)
 
-Một Node đơn giản chỉ là \*\*một máy tính chạy chương trình Bitcoin\*\*. Nhưng nó không chạy đơn lẻ một mình mà được kết nối với các máy tính khác ( cũng là nodes ) để tạo thành một mạng blockchain ( Network ).
+Một Node đơn giản chỉ là **một máy tính chạy chương trình Bitcoin**. Nhưng nó không chạy đơn lẻ một mình mà được kết nối với các máy tính khác ( cũng là nodes ) để tạo thành một mạng blockchain ( Network ).
 
 **Một Node sẽ thực hiện chức năng gì ?**
 
