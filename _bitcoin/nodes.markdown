@@ -43,7 +43,7 @@ Có 2 loại giao dịch mà các node chia sẻ
 
 ![01-node_transaction_type_sharing.png](/uploads/01-node_transaction_type_sharing.png)
 
-Hiện thời các bạn không cần quan tâm đến sự khác nhau giữa 2 loại nodes này, chúng sẽ được làm rõ trong các bài viết về Mining và  Blocks sau.
+Hiện thời các bạn không cần quan tâm đến sự khác nhau giữa 2 loại transactions này, chúng sẽ được làm rõ trong các bài viết về Mining và  Blocks sau.
 
 **3. Giữ bản copy của các transaction đã được xác nhận**
 
@@ -63,10 +63,10 @@ Mỗi Node có một bản copy của blockchain để đảm bảo an toàn cho
 
 **Liệu tôi có cần phải sở hữu một node mạng mới có thể sử dụng bitcoin?**
 
-Câu trả lời là KHÔNG. Bạn có thể gửi và nhận bitcoin mà không cần phải sở hữu node mạng, bạn chỉ một địa chỉ trên blockchain và gửi transaction của mình lên bitcoin network và nó sẽ xử lý giúp bạn
+Câu trả lời là KHÔNG. Bạn có thể gửi và nhận bitcoin mà không cần phải sở hữu node mạng, bạn chỉ cần một địa chỉ trên blockchain và gửi transaction của mình lên bitcoin network và nó sẽ xử lý giúp bạn
 
 ![03-nodes_network_insert_transaction.png](/uploads/03-nodes_network_insert_transaction.png)
 
 Ví dụ bạn có sử dụng một cái ví trên web ( web wallet ) bạn có thể thao tác trên ví này để tạo ra một transaction trên mạng lưới ( bitcoin network ).
- 
+
 Nội dung và ảnh được tham khảo từ http://learnmeabitcoin.com
