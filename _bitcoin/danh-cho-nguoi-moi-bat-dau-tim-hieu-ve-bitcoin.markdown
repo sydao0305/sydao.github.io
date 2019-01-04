@@ -5,17 +5,30 @@ permalink: "/bitcoin"
 layout: home
 ---
 
-1. **Mạng Bitcoin **
+**1. Mạng Bitcoin **
+
 * Nodes
-2. **Mining**
+
+**2. Mining**
+
 * Blockchain
+
 * Blocks
+
 * Difficulty
-3. **Các giao dịch**
+
+**3.Các giao dịch (transcations)**
+
 * Outputs
+
 * * Output Locks
-4. **Khóa và địa chỉ (Keys & Addresses)**
+
+**4. Khóa và địa chỉ (Keys & Addresses)**
+
 * Private Keys
+
 * Public Keys
-* * Digital Signatures
+
+* *Digital Signatures
+
 * * * Signing & Verifying
