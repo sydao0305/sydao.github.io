@@ -51,7 +51,7 @@ Như đã đề cập ở trên mỗi Node sẽ giữ một chuỗi các blocks 
 
 ![02-node_blockchain.png](/uploads/02-node_blockchain.png)
 
-Các transaction mới sẽ được đi loanh quanh trên mạng ( bitcoin network ) cho đến khi chúng được khắc vào blockchain, đối với mạng bitcoin thì blockchain của bitcoin về bản chất là một sổ cái lưu lại các giao dịch chuyển bitcoin đã được xác nhận ( confiremd ) giữa các tài khoản.
+Các transaction mới sẽ được đi loanh quanh trên mạng ( bitcoin network ) cho đến khi chúng được khắc vào blockchain, đối với mạng bitcoin thì blockchain của bitcoin về bản chất là một sổ cái lưu lại các giao dịch chuyển bitcoin đã được xác nhận ( confirmed ) giữa các tài khoản.
 
 Mỗi Node có một bản copy của blockchain để đảm bảo an toàn cho các giao dịch, và các node sẽ chia sẻ phiên bản mới nhất của blockchain cho các node khác nếu các node đó chưa được update.
 
