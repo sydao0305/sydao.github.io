@@ -69,4 +69,4 @@ Câu trả lời là KHÔNG. Bạn có thể gửi và nhận bitcoin mà không
 
 Ví dụ bạn có sử dụng một cái ví trên web ( web wallet ) bạn có thể thao tác trên ví này để tạo ra một transaction trên mạng lưới ( bitcoin network ).
  
-Nội dung và ảnh được lấy từ http://learnmeabitcoin.com
+Nội dung và ảnh được tham khảo từ http://learnmeabitcoin.com
