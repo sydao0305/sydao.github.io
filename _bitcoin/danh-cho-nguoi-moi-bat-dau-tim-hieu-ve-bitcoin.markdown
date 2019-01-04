@@ -5,7 +5,7 @@ permalink: "/bitcoin"
 layout: home
 ---
 
-**1. Mạng Bitcoin **
+**1. Mạng Bitcoin**
 
 * Nodes
 
@@ -21,7 +21,7 @@ layout: home
 
 * Outputs
 
-* * Output Locks
+  * Output Locks
 
 **4. Khóa và địa chỉ (Keys & Addresses)**
 
@@ -29,5 +29,4 @@ layout: home
 
 * Public Keys
     *Digital Signatures
-
-    * Signing & Verifying
+        *Signing & Verifying
