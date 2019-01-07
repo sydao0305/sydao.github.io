@@ -50,3 +50,5 @@ Các bạn có thể đọc thêm các tài liệu về việc chia sẻ file ng
 Bạn có thể được một phiên bản blockchain cho riêng mình bằng cách down load [Bitcoin Client ](https://bitcoin.org/en/download)
 
 Sau khi cài đặt và chạy ứng dụng này thì Client sẽ giúp bạn kết nối với với Bitcoin Network và nó sẽ download blockchain từ trên đó về. Dung lượng của blockchain bitcoin hiện tại là trên 180GB nên bạn sẽ phải tốn thời gian một chút để download hết nó về.\
+
+Test 
