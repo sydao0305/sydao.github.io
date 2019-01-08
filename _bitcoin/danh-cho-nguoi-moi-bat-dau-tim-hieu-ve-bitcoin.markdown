@@ -5,7 +5,7 @@ permalink: "/bitcoin/guide"
 layout: post
 ---
 
-**1. Mạng Bitcoin**
+**1. [Mạng Bitcoin](https://trada.tech/bitcoin/network)**
 
 * [Nodes](https://trada.tech/bitcoin/nodes)
 
