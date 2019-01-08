@@ -3,13 +3,13 @@ title: Mạng bitcon( Bitcoin Network)
 date: 2019-01-08 08:10:00 Z
 ---
 
-#                                                 Bitcoin Network
+# Bitcoin Network
 
 Một mạng máy tính chạy các chương trình bitcoin
 
 Mạng bitcoin là gì?
 
-Mạng bitcoin được hình thành bởi tất cả những người chạy phần mềm bitcoin ( bitcoin client ). 
+Mạng bitcoin được hình thành bởi tất cả những người chạy phần mềm bitcoin ( bitcoin client ).
 
 ![01-software_network.png](/uploads/01-software_network.png)
 
@@ -25,10 +25,26 @@ Việc chia sẻ thông tin, thông báo lẫn nhau như thế này giúp cho m�
 
 ![04-software_network_talking_transaction_consensus.png](/uploads/04-software_network_talking_transaction_consensus.png)
 
-> Mạng Bitcoin được mô tả là mạng ngang hàng ( peer to peer network) là vì 
+> Mạng Bitcoin được mô tả là mạng ngang hàng ( peer to peer network) là vì
 >
 > 1\. Mọi người đều kết nối với những người tạo thành mạng nên gọi là network.
 >
 > 2\. Mọi người đều ngang hàng, bình đẳng nên gọi là peer.
 
 **Những ai tạo thành network**
+
+Nhưng đã đề cập ở trên, **bất cứ ai kích hoạt đường truyền Internet và chạy 1 chương trình bitcoin client sẽ là những người tạo nên Bitcoin Network.**
+
+Một cách nghiêm túc, mọi ngươi đều có thể join ( tham gia ) vào mạng Bitcoin.  Tất cả những thứ chúng ta cần chỉ là một đường truyền Internet và phần mềm [Bitcoin Client ](https://bitcoin.org/en/download)
+
+Mỗi lần bạn bật và chạy phần mềm này lên thì máy tính của bạn sẽ trở thành 1 Node trong Bitcoin Network.
+
+![05-nodes_network-0a04fe.png](/uploads/05-nodes_network-0a04fe.png)
+
+**Làm thế nào để join vào mạng Bitcoin**
+
+Download và cài đặt Bitcoin Client. Khi bạn chạy client này thì nó sẽ tự connect với các node khác trên mạng Bitcoin và download một bản sao đầy đủ của blockchain ( file chứa tất các các giao dịch đã được verified ) về máy tính của bạn. Sau đó client sẽ nhận các transaction từ các node khác và đẩy nó luân chuyển trở lại mạng qua các node khác.
+
+Rất có thể bạn phải điều chỉnh một chút cấu hình trên router của mình để có thể cho phép các node khác theo hướng dẫn dưới đây. Nhưng đó chỉ là một công việc rất nhỏ thôi.  Chỉ cần download và chạy thì đã hoàn thành 95% chặng đường trở thành 1 active node trên Bitcoin Network rồi.\
+\
+https://bitcoin.org/en/full-node#gui-peer-info
