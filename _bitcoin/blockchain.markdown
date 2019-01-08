@@ -53,9 +53,9 @@ Sau khi cài đặt và chạy ứng dụng này thì Client sẽ giúp bạn k�
 
 > Trên 180GB này là toàn bộ blockchain chưa tất cả các giao dịch bitcoin từ trước đến giờ ( giao dịch đầu tiên bắt đầu từ ngày 3/1/2019 ).  Việc download toàn bộ blockchain được thực hiện một lần duy nhất, tuy nhiên thì các block mới sẽ thường xuyên được cập nhật, kích thước mỗi block là khoảng 1MB.
 
-Download xong là bạn đã có trong tay một bản sao blockchain hoàn chỉnh. Mỗi lần bạn chạy bitcoin client tức là bạn đã giúp cho việc chia sẻ file blockchain tới mọi người join vào network giúp cho bitcoin trở nên mạnh hơn. 
+Download xong là bạn đã có trong tay một bản sao blockchain hoàn chỉnh. Mỗi lần bạn chạy bitcoin client tức là bạn đã giúp cho việc chia sẻ file blockchain tới mọi người join vào network giúp cho bitcoin trở nên mạnh hơn.
 
-> Những người khác join vào mạng sẽ download dữ liệu từ các file blockchain lưu trên các node ) giống như mạng torrent người dùng down dữ liệu file video từ các peer khác . Nếu bạn là fan của Torrent, bạn hãy nghĩ bạn bạn là một seeder đang seeding blockchain. 
+> Những người khác join vào mạng sẽ download dữ liệu từ các file blockchain lưu trên các node ) giống như mạng torrent người dùng down dữ liệu file video từ các peer khác . Nếu bạn là fan của Torrent, bạn hãy nghĩ bạn bạn là một seeder đang seeding blockchain.
 
 **File blockchain lưu trữ ở đâu trên máy tính của bạn?**
 
@@ -63,17 +63,15 @@ Blockchain sẽ được lưu trữ trong những files có tên là blk00000.da
 
 Nơi lưu trữ thì tùy thuộc vào hệ điều hành khác nhau mà bạn đang sử dụng cho máy tính dùng làm node của mình
 
-Linux
-\
-       /home/\[username\]/.bitcoin/blocks/
-\
-Windows
-\
-       C:\\Users\\\[username\]\\AppData\\Roaming\\Bitcoin\\
-\
-Mac
-\
-       \~/Library/Application Support/Bitcoin/
+* Linux
+  /home/\[username\]/.bitcoin/blocks/
+
+* Windows
+  C:\\Users\\\[username\]\\AppData\\Roaming\\Bitcoin\\
+  
+
+* Mac
+  \~/Library/Application Support/Bitcoin/
 
 Các file .dat này được thiết kế để máy tính có thể đọc hiểu, tuy nhiên khi bạn mở nó ra thì sẽ chỉ thấy dữ liệu toán loạn hầm bà lằng mà thôi nhưng cứ yên tâm đi, đó là dữ liệu về các giao dịch bitcoin 100% đấy.
 
