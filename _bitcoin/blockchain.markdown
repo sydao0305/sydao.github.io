@@ -59,7 +59,7 @@ Download xong là bạn đã có trong tay một bản sao blockchain hoàn ch�
 
 **File blockchain lưu trữ ở đâu trên máy tính của bạn?**
 
-Blockchain sẽ được lưu trữ trong những files có tên là blk00000.dat,  blk00001.dat, blk00002.dat, v.v. ( Khi kích thước blockchain quá lớn nó sẽ được chia thành nhiều file vật lý, việc chia thành các file chỉ có ý nghĩa lưu trữ về mặt vật lý chứ việc phân chia thành các file không tương ứng với việc phân chia các block, một file không tương ứng với 1 block.
+Blockchain sẽ được lưu trữ trong những files có tên là blk00000.dat,  blk00001.dat, blk00002.dat, v.v. ( Khi kích thước blockchain quá lớn nó sẽ được chia thành nhiều file vật lý). Việc chia thành các file này chỉ có ý nghĩa lưu trữ về mặt vật lý chứ nó không tương ứng với việc phân chia các block, một file không tương ứng với 1 block.
 
 Nơi lưu trữ thì tùy thuộc vào hệ điều hành khác nhau mà bạn đang sử dụng cho máy tính dùng làm node của mình
 
