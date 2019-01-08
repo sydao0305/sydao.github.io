@@ -11,7 +11,7 @@ layout: post
 
 **2. Mining**
 
-* Blockchain
+* [Blockchain](https://trada.tech/bitcoin/blockchain)
 
 * Blocks
 
