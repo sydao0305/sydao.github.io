@@ -46,6 +46,9 @@ Mỗi lần bạn bật và chạy phần mềm này lên thì máy tính của 
 
 Download và cài đặt Bitcoin Client. Khi bạn chạy client này thì nó sẽ tự connect với các node khác trên mạng Bitcoin và download một bản sao đầy đủ của blockchain ( file chứa tất các các giao dịch đã được verified ) về máy tính của bạn. Sau đó client sẽ nhận các transaction từ các node khác và đẩy nó luân chuyển trở lại mạng qua các node khác.
 
-Rất có thể bạn phải điều chỉnh một chút cấu hình trên router của mình để có thể cho phép các node khác theo hướng dẫn dưới đây. Nhưng đó chỉ là một công việc rất nhỏ thôi.  Chỉ cần download và chạy thì đã hoàn thành 95% chặng đường trở thành 1 active node trên Bitcoin Network rồi.\
-\
+Rất có thể bạn phải điều chỉnh một chút cấu hình trên router của mình để có thể cho phép các node khác theo hướng dẫn dưới đây. 
+
 https://bitcoin.org/en/full-node#gui-peer-info
+
+Nhưng đó chỉ là một công việc rất nhỏ thôi.  Chỉ cần download và chạy thì đã hoàn thành 95% chặng đường trở thành 1 active node trên Bitcoin Network rồi.\
+\
