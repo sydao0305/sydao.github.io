@@ -1,6 +1,7 @@
 ---
 title: Mạng bitcon( Bitcoin Network)
 date: 2019-01-08 08:10:00 Z
+permalink: "/bitcoin/network"
 ---
 
 # Bitcoin Network
