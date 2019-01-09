@@ -43,3 +43,6 @@ facebook:
   publisher: https://facebook.com/tradatech
 plugins:
 - jekyll-feed
+prose:
+  siteurl: 'http://trada.tech/'
+  media: '_uploads'
