@@ -1,6 +1,6 @@
 ---
 title: Nodes
-date: 2019-01-04 03:48:00 Z
+date: 2019-01-04 10:48:00 +07:00
 permalink: bitcoin/nodes
 layout: post
 ---

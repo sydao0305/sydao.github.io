@@ -1,6 +1,6 @@
 ---
 title: Trada Tech làm gì và tại sao
-date: 2018-10-29 00:00:00 Z
+date: 2018-10-29 07:00:00 +07:00
 permalink: "/2018/10/29/gioi-thieu-trada-tech.html"
 layout: post
 excerpt: Chia sẻ từ founder dự án.

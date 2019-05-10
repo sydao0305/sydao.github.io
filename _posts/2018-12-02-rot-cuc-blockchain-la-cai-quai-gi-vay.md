@@ -1,6 +1,6 @@
 ---
 title: Rốt cục blockchain là cái quái gì vậy???
-date: 2018-12-02 00:00:00 Z
+date: 2018-12-02 07:00:00 +07:00
 layout: post
 author: Mohit Mamoria
 image: https://cdn-images-1.medium.com/max/1600/1*oMwunuVKyqWectTecENigQ.png

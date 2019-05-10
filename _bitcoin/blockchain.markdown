@@ -1,6 +1,6 @@
 ---
 title: Bitcoin Blockchain
-date: 2019-01-04 06:19:00 Z
+date: 2019-01-04 13:19:00 +07:00
 permalink: "/bitcoin/blockchain"
 layout: post
 ---

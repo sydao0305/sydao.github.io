@@ -1,15 +1,9 @@
 ---
 title: Thầy Bá Phong
-timezone: UTC
+timezone: Asia/Bangkok
 collections:
-  bitcoin:
-    title: Bitcoin
-    output: true
   posts:
     title: Posts
-    output: true
-  teddy:
-    title: Teddy
     output: true
   uploads:
     title: Uploads
@@ -20,29 +14,10 @@ defaults:
     type: posts
   values:
     layout: post
-    image: "/assets/img/trada_cover.png"
-    category: blog
-    author: Bá Phong
+    permalink: "/posts/:title/"
 - scope:
     path: ''
     type: pages
   values:
-    image: "/assets/img/trada_cover.png"
-lang: vi
-description: Học để chung sống.
-baseurl: "/"
-url: https://baphong.com
-google_analytics: UA-8597504-5
-markdown: kramdown
-theme: minima
-show_excerpts: true
-author: thi
-logo: "/assets/img/trada_cover.png"
-facebook:
-  app_id: 2178421482485741
-  publisher: https://facebook.com/baphong80
-plugins:
-- jekyll-feed
-prose:
-  siteurl: 'http://baphong.com/'
-  media: '_uploads'
+    layout: page
+permalink: pretty

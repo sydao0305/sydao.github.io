@@ -1,6 +1,6 @@
 ---
 title: Mạng bitcon( Bitcoin Network)
-date: 2019-01-08 08:10:00 Z
+date: 2019-01-08 15:10:00 +07:00
 permalink: "/bitcoin/network"
 ---
 

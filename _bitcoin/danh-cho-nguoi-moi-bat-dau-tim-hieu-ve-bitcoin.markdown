@@ -1,6 +1,6 @@
 ---
 title: Dành cho người mới bắt đầu tìm hiểu về Bitcoin
-date: 2019-01-04 03:00:00 Z
+date: 2019-01-04 10:00:00 +07:00
 permalink: "/bitcoin/guide"
 layout: post
 ---
