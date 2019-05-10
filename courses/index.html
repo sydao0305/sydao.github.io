@@ -1,0 +1,438 @@
+---
+title: Học blockchain
+layout: default
+image: "/assets/img/learn.png"
+---
+
+<style>
+    .hero-section, .features-section, .quote-section, .blog-section {
+        padding: 30px 0;
+        border-radius: 2px;
+    }
+    
+    .features-section * {
+        box-sizing: border-box;
+    }
+    
+    
+    .features-section .feature-row {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+    
+    .features-section .feature-row .feature-card {
+        background-color: #fff;
+        /*width: 238.65px;*/
+        width: calc(33.333% - 8px);
+        margin-top: 16px;
+        border-radius: 2px;
+        box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+    }
+    
+    .features-section .feature-row .feature-card .image {
+        background-color: rgb(43, 180, 201);
+        background-size: cover;
+        background-position: center;
+        min-height: 4px;
+    }
+    
+    .features-section .feature-row .feature-card .text {
+        padding: 32px 16px;
+    }
+    
+    .features-section h5 {
+        color: #111;
+        font-size: 21px;
+    }
+    
+    .features-section p {
+        color: #828282;
+        font-size: 90%;
+        padding-top: 12px;
+        margin-bottom: 0;
+    }
+
+    .features-section .feature-row .feature-card.course:first-of-type {
+        background-color: rgb(180, 43, 201);
+    }
+
+    .features-section .feature-row .feature-card.course:nth-of-type(2) {
+        background-color: rgb(201,180,43);
+    }
+
+    .features-section .feature-row .feature-card.course:last-of-type {
+        background-color: rgb(43,201,180);
+    }
+
+    .features-section .feature-row .feature-card.course .image {
+        background-color: transparent;
+    }
+
+    .features-section .feature-row .feature-card.course .image h5 {
+        background-color: #fff;
+        color: rgb(201,180,43);
+        position: relative;
+        top: 4px;
+        left: 2px;
+        display: inline;
+        padding: 6px 8px;
+    }
+
+    .features-section .feature-row .feature-card.course:first-of-type .image h5 {
+        color: rgb(180, 43, 201);
+    }
+
+    .features-section .feature-row .feature-card.course:last-of-type .image h5 {
+        color: rgb(43,201,180);
+    }
+
+    .features-section .feature-row .feature-card.course .text p {
+        color: #f8f8f8;
+    }
+
+    .features-section .feature-row .feature-card.course .button a {
+        color: #fff;
+        border: 1px solid #f8f8f8;
+        padding: 6px 16px;
+    }
+    .features-section .feature-row .feature-card.course .button a:visited {
+        color: #fff;
+    }
+    .features-section .feature-row .feature-card.course .button a:hover {
+        text-decoration: none;
+        background-color: #fff;
+        color: rgb(201,180,43);
+    }
+    .features-section .feature-row .feature-card.course:first-of-type .button a:hover {
+        color: rgb(180, 43, 201);
+    }
+
+    .features-section .feature-row .feature-card.course:last-of-type .button a:hover {
+        color: rgb(43,201,180);
+    }
+
+    .features-section .feature-row .feature-card.portrait .image {
+        height: 192px;
+        background-color: #333;
+        position: relative;
+    }
+
+    .features-section .feature-row .feature-card.portrait .image h5 {
+        color: #f8f8f8;
+        background-color: rgb(43, 180, 201);
+        display: inline-block;
+        padding: 0 8px;
+        position: absolute;
+        bottom: -24px;
+    }
+
+    .features-section .feature-row .feature-card.portrait .text {
+        padding: 8px 16px 28px;
+    }
+    
+    .features-section .feature-row .feature-card .button {
+        padding: 16px 16px 32px;
+    }
+    
+    .quote-section {
+        background-color: rgb(241, 241, 240);
+        background-image: url("/assets/img/pattern1.png");
+    }
+    
+    figure.testimonial {
+        position: relative;
+        float: left;
+        margin: 10px 1% 40px;
+        max-width: 480px;
+        width: 100%;
+        color: #333;
+        text-align: left;
+        border-radius: 90px;
+        box-shadow: -3px 5px 12px 0 rgba(0,0,0,0.3);
+    }
+    figure.testimonial.first {
+        transform: rotate(-5deg);
+        top: 18px;
+    }
+    figure.testimonial.second {
+        float:right;
+        transform: rotate(15deg);
+    }
+    figure.testimonial * {
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    figure.testimonial img {
+        float: right;
+        max-width: 40%;
+        vertical-align: middle;
+        background-color: rgb(107, 101, 91);
+        /*border-radius: 0 8px 8px 0;*/
+    }
+    figure.testimonial figcaption {
+        top: 0;
+        bottom: 0;
+        left: 0;
+        width: 60%;
+        position: absolute;
+        background-color: #fdf9c5;
+        border-radius: 8px 0 0 8px;
+    }
+    figure.testimonial blockquote {
+        background-color: #fdf9c5;
+        position: relative;
+        padding: 25px 50px 25px 50px;
+        font-size: 0.9em;
+        font-weight: 500;
+        text-align: left;
+        margin: 0;
+        line-height: 1.6em;
+        font-style: italic;
+        border-left: 0;
+        color: #333;
+    }
+    figure.testimonial blockquote:before,
+    figure.testimonial blockquote:after {
+        font-family: 'FontAwesome';
+        content: "\201C";
+        position: absolute;
+        font-size: 50px;
+        opacity: 0.3;
+        font-style: normal;
+    }
+    figure.testimonial blockquote:before {
+        top: 25px;
+        left: 20px;
+    }
+    figure.testimonial blockquote:after {
+        content: "\201D";
+        right: 20px;
+        bottom: 0px;
+    }
+    figure.testimonial .arrow {
+        top: 30px;
+        left: 100%;
+        width: 0;
+        height: 0;
+        border-left: 0 solid transparent;
+        border-right: 25px solid transparent;
+        border-top: 25px solid #fdf9c5;
+        margin: 0;
+        position: absolute;
+    }
+    figure.testimonial .author {
+        position: absolute;
+        top: 100%;
+        width: 100%;
+        padding: 10px 15px;
+        color: #333;
+        margin: 0;
+        text-transform: uppercase;
+    }
+    figure.testimonial .author h5 {
+        opacity: 0.8;
+        margin: 0;
+        font-weight: 800;
+    }
+    figure.testimonial .author h5 span {
+        font-weight: 400;
+        text-transform: none;
+        padding-left: 5px;
+    }
+    
+    @media only screen and (max-width: 700px) {
+        .features-section .feature-row .feature-card {
+            width: 48%;
+        }
+    }
+    @media only screen and (max-width: 460px) {
+        .features-section .feature-row .feature-card {
+            width: 100%;
+        }
+        figure.testimonial.first {
+            top: 32px;
+        }
+        figure.testimonial.first .author {
+            top: auto;
+            bottom: 100%;
+        }
+    }
+    
+    @media only screen and (max-width: 499px) {
+        figure.testimonial img {
+            display: none;
+        }
+        figure.testimonial figcaption {
+            width: 100%;
+            position: relative;
+        }
+        figure.testimonial.second {
+            float:left;
+        }
+        figure.testimonial .arrow {
+            display: none;
+        }
+        figure.testimonial.first blockquote {
+            text-align: right;
+        }
+    }
+    
+    .hero-section {
+        text-align: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 60px 4.5% 48px;
+    }
+    
+    .hero-section h1 {
+        font-size: 28px;
+        font-weight: 500;
+        color: #111;
+    }
+    
+    .hero-section h3 {
+        color: #333;
+        font-weight: 300;
+    }
+    
+    .hero-section .action-zone {
+        padding: 32px 0;
+    }
+    
+    .hero-section a.main-button {
+        color: #f8f8f8;
+        border: 2px solid #f5f5f5;
+        text-decoration: none;
+        padding: 16px 24px;
+        border-radius: 2px;
+    }
+    
+    .hero-section a.main-button:hover {
+        color: #15B5DD;
+        background-color: #eee;
+    }
+    
+    h2.section-title {
+        font-weight: 300;
+        text-transform: uppercase;
+        text-align: center;
+        color: #828282;
+    }
+</style>
+<section class="hero-section">
+    <h1>Các khoá học hiệu quả khác biệt</h1>
+    <h3>Trada Academy tập trung vào chất lượng và trách nhiệm tới từng học viên. Hiểu bản chất vấn đề, tự làm được việc, tự tin đưa ra giải pháp.</h3>
+</section>
+
+<section class="features-section">	
+    <div class="features-wrapper">
+        <div class="feature-row">
+            <div class="feature-card course">
+                <div class="image">
+                    <h5>Ethereum DApp</h5>
+                </div>
+                <div class="text">
+                    <p>Lập trình DApp cho Ethereum với Solidity, web3 JS, Truffle Suite, IPFS.</p>
+                </div>
+                <div class="button">
+                    <a href="/courses/dapp.html">Chi tiết →</a>
+                </div>
+            </div>
+            <div class="feature-card course">
+                <div class="image">
+                    <h5>Golang Blockchain</h5>
+                </div>
+                <div class="text">
+                    <p>Tạo 1 blockchain từ đầu bằng Golang, đồng thuận bằng PoW, hỗ trợ smart contract.</p>
+                </div>
+                <div class="button">
+                    <a href="/courses/golang.html">Chi tiết →</a>
+                </div>
+            </div>
+            <div class="feature-card course">
+                <div class="image">
+                    <h5>Theo yêu cầu</h5>
+                </div>
+                <div class="text">
+                    <p>Đào tạo lập trình viên, sales, quản lý về blockchain theo yêu cầu riêng.</p>
+                </div>
+                <div class="button">
+                    <a href="/courses/ondemand.html">Chi tiết →</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="blog-section" style="background:#eee;padding: 24px 18px 12px">
+    <h2>Tại sao học ở Trada Academy có hiệu quả khác biệt?</h2>
+    <p>Không dựa vào các clip gây buồn ngủ bằng tiếng nước ngoài. Không sử dụng các giảng viên "đa năng" chưa thực sự làm blockchain. Không khí ở các lớp học Trada Academy rất khác biệt.</p>   
+    <ul>
+        <li>Tập trung, tương tác, cùng live code với sự tham gia của từng học viên</li>
+        <li>Giảng viên tận tâm, có kinh nghiệm làm thực ở các dự án blockchain đa dạng</li>
+        <li>Lớp tối đa 10 người, quan tâm tới từng học viên, làm được mới thôi</li>
+        <li>Có sản phẩm tự làm trong khoá học, chủ đề do học viên tự chọn!</li>
+        <li>Trách nhiệm với học viên cả sau khoá học. Học viên có thể hỏi các vấn đề dự án riêng</li>
+    </ul>
+</section>
+
+
+<section class="features-section">	
+    <h2 class="section-title">Top giảng viên</h2>
+    <div class="features-wrapper">
+        <div class="feature-row">
+            <div class="feature-card portrait">
+                <div class="image" style="background-image:url(/assets/img/thi.jpg)">
+                    <h5>Thi măng cụt</h5>
+                </div>
+                <div class="text">
+                    <p>Founder of Trada Tech, former manager and blockchain trainer of Kyber Network.</p>
+                </div>
+            </div>
+            <div class="feature-card portrait">
+                <div class="image" style="background-image:url(/assets/img/andrew.jpg)">
+                    <h5>Andrew Nguyen</h5>
+                </div>
+                <div class="text">
+                    <p>Technical Manager of Kyber Network, technical lead of KyberSwap.</p>
+                </div>
+            </div>
+            <div class="feature-card portrait">
+                <div class="image" style="background-image:url('http://en.sotatek.com/wp-content/themes/sotatek/images/network_effect/an.png')">
+                    <h5>Andy Nguyen</h5>
+                </div>
+                <div class="text">
+                    <p>Co-founder and Blockchain lead of Sotatek.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="quote-section">
+        <h2 class="section-title">Học viên nói gì?</h2>
+        <figure class="testimonial first">
+            <figcaption>
+                <blockquote>Bài giảng rất hay và súc tích. Truyền lửa đam mê cho học sinh. Highly recommend!!!</blockquote>
+                <div class="arrow"></div>
+            </figcaption>
+            <img src="/assets/img/theanh.jpg" alt="Nguyễn Thế Anh" />
+            <div class="author">
+                <h5>Nguyễn Thế Anh <span>- sống tại Úc</span></h5>
+            </div>
+        </figure>
+        <br>
+        <figure class="testimonial second">
+            <figcaption>
+                <blockquote>Giảng viên rất nhiệt tình và tâm huyết. Live code giải thích bằng ví dụ rất dễ hình dung. Nếu đã có căn bản và học ngiêm túc thì rất hiệu quả.</blockquote>
+                <div class="arrow"></div>
+            </figcaption>
+            <img src="/assets/img/tangtai.jpg" alt="Tăng Văn Tài" />
+            <div class="author">
+                <h5>Tăng Văn Tài<span>- CTO Hachinet</span></h5>
+            </div>
+        </figure>
+        <div style="clear:both"></div>
+    </section>
