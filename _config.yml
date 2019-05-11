@@ -1,6 +1,5 @@
 ---
 title: Thầy Bá Phong
-description: Học để thoát khổ. Học để sánh vai cường quốc năm châu.
 timezone: Asia/Bangkok
 collections:
   posts:
@@ -21,6 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
+description: Học để thoát khổ. Học để sánh vai cường quốc năm châu.
 theme: minima
-siteurl: 'http://baphong.com/'
+siteurl: http://baphong.com/
 permalink: pretty
