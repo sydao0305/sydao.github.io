@@ -1,6 +1,5 @@
 ---
 title: Thầy Bá Phong
-theme: minima
 timezone: Asia/Bangkok
 collections:
   posts:
@@ -21,4 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
+theme: minima
 permalink: pretty
