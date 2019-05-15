@@ -20,7 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
-description: Học để thoát khổ. Học để sánh vai cường quốc năm châu.
+description: Học để tạo giá trị
 theme: minima
 siteurl: http://baphong.com/
 permalink: pretty
