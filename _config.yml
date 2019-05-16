@@ -1,5 +1,5 @@
 ---
-title: Thầy Bá Phong
+title: Kỳ thi đánh giá năng lực chuẩn Mỹ
 timezone: Asia/Bangkok
 collections:
   posts:
@@ -20,7 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
-description: Học để tạo giá trị
+description: Sánh vai với cường quốc Mỹ
 theme: minima
-siteurl: http://baphong.com/
+siteurl: http://asat.vn/
 permalink: pretty
