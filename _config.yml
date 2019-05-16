@@ -21,6 +21,6 @@ defaults:
   values:
     layout: page
 description: Sánh vai với cường quốc Mỹ
-theme: minima
-siteurl: http://asat.vn/
+
+siteurl: http://asat.github.io/
 permalink: pretty
