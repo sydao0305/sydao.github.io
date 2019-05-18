@@ -1,0 +1,27 @@
+---
+title: sữa chua nếp cẩm Phương thảo
+timezone: Asia/vietnam
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+description: sữa chua handmade ngon-bổ-rẻ
+
+
+permalink: pretty
+© 2019 GitHub, Inc.
